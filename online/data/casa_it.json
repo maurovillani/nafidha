@@ -1,0 +1,190 @@
+{
+	"header": "La casa",
+	"intro": "Scopri gli ambienti che potranno accoglierti.",
+	"items": [
+		{
+			"name": "Luci",
+			"description": "Nafidha vi accoglier&agrave; da subito con stile facendoti sentire a casa.",
+			"image": {
+				"url": "images/gallery/online/luci.jpg",
+				"alt": "Luci"
+			}
+		},
+		{
+			"name": "Soggiorno",
+			"description": "Il soggiorno dal soffitto alto e molto illuminato ospita la zona pranzo e la zona relax con il divano letto, la tv e la console giochi.",
+			"image": {
+				"url": "images/gallery/online/interno_5_v.jpg",
+				"alt": "Soggiorno"
+			}
+		},
+		{
+			"name": "Finestre soggiorno",
+			"description": "Le grandi finestre del soggiorno hanno la vista sul giardino, regalando luce all'ambiente.",
+			"image": {
+				"url": "images/gallery/online/interno_7.jpg",
+				"alt": "Finestre"
+			}
+		},
+		{
+			"name": "Interno porta ingresso",
+			"description": "La porta di ingresso da sul giardino. Il divano semplice da trasformare in un letto &egrave; capace di offrire uno o due posti letto aggiuntivo nel caso serva (larghezza del letto 120 cm).",
+			"image": {
+				"url": "images/gallery/online/interno_6_v.jpg",
+				"alt": "Tavolo da pranzo porta ingresso"
+			}
+		},
+		{
+			"name": "Ingresso cucina",
+			"description": "La tavola da pranzo può ospitare tranquillamente quatto persone. Poter assaggiare il vino di Nafidha sar&agrave; molto comodo senza lasciare il proprio piatto :)",
+			"image": {
+				"url": "images/gallery/online/interno_2_v.jpg",
+				"alt": "Tavolo da pranzo ingresso cucina"
+			}
+		},
+		{
+			"name": "Illuminazione soggiorno",
+			"description": "Abbiamo cercato di unire il gusto tradizionale ed industriale. Elementi delle abitazioni storiche restaurati, legno a vista per creare calore, design funzionale ed essenziale.",
+			"image": {
+				"url": "images/gallery/online/interno_1day.jpg",
+				"alt": "Illuminazione soggiorno"
+			}
+		},
+		{
+			"name": "Tavolo da pranzo",
+			"description": "Per mangiare in Nafidha dovrete solo preoccuparvi di creare i vostri piatti. Troverete a disposizione stoviglie e accessori per cucinare, oltre che ingredienti essenziali e del cibo a vostra disposizione come benvenuto.",
+			"image": {
+				"url": "images/gallery/online/taste_1.jpg",
+				"alt": "Tavolo da pranzo"
+			}
+		},
+		{
+			"name": "Cucina",
+			"description": "Dal soggiorno si accede direttamente alla cucina, raccolta e ben organizzata nei suoi spazi trovano posto: frigo, piano cottura due fuochi, ampio lavandino, forno a microonde.",
+			"image": {
+				"url": "images/gallery/online/cucina_1_v.jpg",
+				"alt": "Cucina"
+			}
+		},
+		{
+			"name": "Accessori cucina",
+			"description": "Oltre alle cose essenziali che vi aspettereste di trovare in tutte le cucine, avrete a dspozione la macchina per il caff&egrave; (capsule Nespresso), il bollitore, e ovviamente una bella scelta di caff&egrave;, t&egrave; e infusi.",
+			"image": {
+				"url": "images/gallery/online/cucina_2.jpg",
+				"alt": "Accessori cucina"
+			}
+		},
+		{
+			"name": "Camera da letto",
+			"description": "In camera un letto a due piazze, mobili, cassettiera e specchio sapranno accogliervi.",
+			"image": {
+				"url": "images/gallery/online/camera_letto_1.jpg",
+				"alt": "Camera da letto"
+			}
+		},
+		{
+			"name": "Camera da letto",
+			"description": "I mobili della camera da letto sono tutti in legno naturale e sfruttano gli spazi in modo intelligente.",
+			"image": {
+				"url": "images/gallery/online/camera_letto_2.jpg",
+				"alt": "Camera da letto"
+			}
+		},
+		{
+			"name": "Comodino",
+			"description": "Il tempo per riposare non sarà mai così piacevole come qui.",
+			"image": {
+				"url": "images/gallery/online/clock.jpg",
+				"alt": "Orologio"
+			}
+		},
+		{
+			"name": "Letto",
+			"description": "Letto",
+			"image": {
+				"url": "images/gallery/online/letto.jpg",
+				"alt": "Letto"
+			}
+		},
+		{
+			"name": "Bagno",
+			"description": "Bagno",
+			"image": {
+				"url": "images/gallery/online/bagno_1_v.jpg",
+				"alt": "Bagno"
+			}
+		},
+		{
+			"name": "Bagno",
+			"description": "Lavandino e box doccia",
+			"image": {
+				"url": "images/gallery/online/bagno_2_v.jpg",
+				"alt": "Box doccia"
+			}
+		},
+		{
+			"name": "Ingresso",
+			"description": "Ingresso",
+			"image": {
+				"url": "images/gallery/online/ingresso_3.jpg",
+				"alt": "Ingresso"
+			}
+		},
+		{
+			"name": "Ingresso",
+			"description": "Ingresso",
+			"image": {
+				"url": "images/gallery/online/ingresso.jpg",
+				"alt": "Ingresso"
+			}
+		},
+		{
+			"name": "Esterno",
+			"description": "Esterno",
+			"image": {
+				"url": "images/gallery/online/esterno_4.jpg",
+				"alt": "Esterno"
+			}
+		},
+		{
+			"name": "Tavolo",
+			"description": "Tavolo esterno",
+			"image": {
+				"url": "images/gallery/online/tavolo_2.jpg",
+				"alt": "Tavolo esterno"
+			}
+		},
+		{
+			"name": "Tavolo",
+			"description": "Tavolo esterno",
+			"image": {
+				"url": "images/gallery/online/esterno_3.jpg",
+				"alt": "Tavolo esterno"
+			}
+		},
+		{
+			"name": "Tavolo",
+			"description": "Tavolo esterno",
+			"image": {
+				"url": "images/gallery/online/esterno_2.jpg",
+				"alt": "Tavolo esterno"
+			}
+		},
+		{
+			"name": "Tavolo",
+			"description": "Tavolo esterno",
+			"image": {
+				"url": "images/gallery/online/esterno_1.jpg",
+				"alt": "Tavolo esterno"
+			}
+		},
+		{
+			"name": "Host",
+			"description": "Gli host che vi accoglieranno",
+			"image": {
+				"url": "images/gallery/online/host.jpg",
+				"alt": "host"
+			}
+		}
+	]
+}

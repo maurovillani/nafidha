@@ -1,0 +1,8 @@
+RewriteEngine on
+
+#RewriteRule home index.php
+#RewriteRule contatti nafidha-contatti.php
+#RewriteRule lacasa nafidha-la-casa.php
+#RewriteRule davisitare nafidha-da-visitare.php
+#RewriteRule davisitare-dettagli nafidha-da-visitare-dettagli.php
+#RewriteRule en index.php?lang=en

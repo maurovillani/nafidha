@@ -1,0 +1,911 @@
+{
+	"header": "Places",
+  	"intro": "Discover the best places around Nafidha.",
+  "type": "dintorni",
+  "items": [
+    {
+      "code": "torcaldara",
+      "name": "Tor Caldara nature reserve",
+      "description": "Riserva naturale di 44 ettari, istituita nel 1988, situata tra Anzio e Lido di Lavinio al Km. 34,400 della via Ardeatina, costituisce uno degli ultimi lembi delle migliaia di ettari di bosco che ricoprivano il Lazio fino agli inizi del 1900.  \r\nLa riserva costituisce un esempio di foresta mediterranea a prevalenza di sempreverdi: lecci, che ne costituiscono il 70%, sugheri, erica arborea, corbezzolo; nelle zone più umide troviamo ontani, pioppi, tremuli, farnie.\r\nRicca anche di fauna composta da rettili, nove specie, anfibi, cinque specie, uccelli, cinquanta specie e mammiferi vari. Sono  ospitate nella riserva di Tor Caldara decine di esemplari di tartarughe che offrono una simpatica accoglienza a tutti i visitatori.La torre: sorge sul punto più alto di un promontorio che permetteva di controllare la costa da Tor San Lorenzo ad Anzio. La costruzione risale alla metà del 500. La riserva costituisce un esempio di foresta mediterranea a prevalenza di sempreverdi: lecci, che ne costituiscono il 70%, sugheri, erica arborea, corbezzolo; nelle zone più umide troviamo ontani, pioppi, tremuli, farnie.\r\nLe Sorgenti: da iscriversi a fenomeni tardo magmatici relativi all’antico Vulcano laziale. Le sorgenti di acqua sulfurea calda, oramai molto ridotta, fuoriescono dal terreno alla portata di circa 2 litri al secondo. Nell’antichità l’estrazione dello zolfo rappresentò una considerevole attività economica della zona, iniziata in età romana e ripresa nel 500.",
+      "by": "BIKE",
+      "distancekm": "1.9 Km",
+      "distancemin": "22",
+      "tags": [
+        {
+          "name": "NATURE"
+        },
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Via Ardeatina, Anzio",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d5026.564172111148!2d12.600215557226141!3d41.48665498250562!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.4907299!2d12.5962661!5e0!3m2!1sit!2sit!4v1505639715241",
+      "images": {
+        "main": {
+          "url": "images/dintorni/torcaldara.jpg",
+          "alt": "Tor Caldara Oasi WWF"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/torcaldara01.jpg",
+            "alt": "Tor Caldara Oasi WWF"
+          },
+          {
+            "url": "images/dintorni/torcaldara02.jpg",
+            "alt": "Tor Caldara Oasi WWF"
+          },
+          {
+            "url": "images/dintorni/torcaldara03.jpg",
+            "alt": "Tor Caldara Oasi WWF"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito regione Lazio",
+          "url": "http://www.parchilazio.it/torcaldara"
+        }
+      ]
+    },
+    {
+      "code": "tvillage",
+      "name": "Free beach and T-Village beach resort",
+      "description": "Il T-Village! si trova sulla spiaggia di Tor Caldara a pochi km dalla famosa città di mare di Anzio tra i lidi più belli di Roma. \r\nIl T-Village! è uno stabilimento balneare 4 stelle, con animazione per piccoli e grandi, miniclub e giochi gonfiabili in acqua, cabine con doccia calda, cabine spogliatoio, piccola biblioteca e Internet WiFi, servizio ristorante, tavola calda e bar. La spiaggia è sabbiosa e difesa da barriere frangiflutti, soluzione ideale per famiglie con bambini. L'assenza di barriere architettoniche rende il T-Village! uno stabilimento balneare accessibile.\nBenvenuto al T-Village!",
+      "by": "WALKING",
+      "distancekm": "1.5 Km",
+      "distancemin": "17",
+      "tags": [
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "Via Delle Tamerici, Anzio",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5977.884714768155!2d12.5996909283975!3d41.48384936702158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325bc951747ccc1%3A0xe8bc1a65326cb90a!2sT-Village%2C+Via+delle+Tamerici%2C+49%2C+00042+Anzio+RM%2C+Italia!3m2!1d41.4817505!2d12.5964624!5e0!3m2!1sit!2sit!4v1505639887366",
+      "images": {
+        "main": {
+          "url": "images/dintorni/tvillage.jpg",
+          "alt": "T Village beach resort"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/tvillage_patio.jpg",
+            "alt": "patio T Village beach resort"
+          },
+          {
+            "url": "images/dintorni/tvillage_spiaggia.jpg",
+            "alt": "spiaggia T Village"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "http://www.t-village.it/"
+        }
+      ]
+    },
+    {
+      "code": "zodiaco",
+      "name": "Zodiaco Mall",
+      "description": "Centro commerciale, ampio parcheggio, negozi di abbigliamento ed elettronica, bar",
+      "by": "WALKING",
+      "distancekm": "2.5 Km con il treno",
+      "distancemin": "13",
+      "tags": [
+        {
+          "name": "SHOPPING"
+        }
+      ],
+      "address": "Via Fonderia 1, Anzio",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11954.240539782286!2d12.61034688754653!3d41.49213496807332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325a2d610e7528f%3A0x357c5da0a9246323!2sVia+Fonderia%2C+1%2C+00042+Anzio+RM!3m2!1d41.5004071!2d12.6271651!5e0!3m2!1sit!2sit!4v1514815152997",
+      "images": {
+        "main": {
+          "url": "images/dintorni/zodiaco.jpg",
+          "alt": "Zodiaco Centro Commerciale"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/zodiaco_interno_entrata.jpg",
+            "alt": "entrata zodiaco"
+          },
+          {
+            "url": "images/dintorni/zodiaco_interno_negozi.jpg",
+            "alt": "negozi zodiaco"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "http://www.centrozodiaco.it/"
+        }
+      ]
+    },
+    {
+      "code": "anziocentro",
+      "name": "Anzio Center",
+      "description": "Passata alla storia per lo sbarco delle truppe americane durante la II Guerra Mondiale, Anzio è ricordata come città natale di Nerone, che qui nacque il 15 dicembre del 37 d.C. e diede splendore e ricchezza alla cittadina. Anzio vive ancora oggi di quel glorioso passato le cui tracce sono visibili nella Villa Imperiale, ubicata tra il faro e il porto neroniano. Anzio è meta turistica  per gli appassionati di storia, per la sua bellissima costa e il porto turistico, e per la possibilità di praticare diversi sport acquatici, offrendo relax, svago e divertimenti, e interessanti siti dall'elevato valore storico e culturale. Situata a circa 60 km sulla costa a sud di Roma, la città di Anzio vanta un'antica storia con i primi insediamenti umani già dall'età protostorica. Conquistata dai Volsci agli inizi del V secolo a.C., diviene colonia romana nel 338 a.C.. La vicinanza a Roma e la favorevole posizione sul mare rendono Anzio una delle mete più ambite dall'élite aristocratica dell'Urbe che, a partire dal periodo tardo-repubblicano, sceglie questa località per far edificare numerose ville lungo la fascia costiera. Con l'età imperiale l'antica Antium, città natale degli imperatori Caligola e Nerone, raggiunge il suo massimo splendore e con la fine dell'Impero romano affronta un periodo di progressiva decadenza che termina solo nel XVII secolo, quando gli alti prelati della corte papale romana scelgono Capo d'Anzio come luogo di villeggiatura e di caccia. Alla sontuosa villa imperiale si sostituiscono le lussuose residenze aristocratiche: Villa Adele, attuale sede del Museo Civico Archeologico di Anzio, Villa Corsini - Sarsina, sede di rappresentanza del Comune, e Villa Albani. Con la realizzazione di un nuovo porto ad opera di papa Innocenzo XII (1691-1700), si rilancia la vocazione marittima e commerciale della cittadina che diviene comune autonomo nel 1857. Fortemente danneggiata durante i bombardamenti della II Guerra Mondiale e teatro di uno sbarco alleato, al quale è dedicato il Museo all'interno di Villa Adele, è ricostruita e rilanciata nell'immediato dopoguerra.",
+      "by": "WALKING",
+      "distancekm": "5 Km con il treno",
+      "distancemin": "25",
+      "tags": [
+        {
+          "name": "SHOPPING"
+        },
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Anzio, centro",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d23918.30251135683!2d12.604211349687178!3d41.46551722449821!3m2!1i1024!2i768!4f13.1!4m11!3e3!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.447592!2d12.629633499999999!5e0!3m2!1sit!2sit!4v1514816753569",
+      "images": {
+         "main": {
+          "url": "images/dintorni/centro.jpg",
+          "alt": "Citta di Anzio"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/centro_citta.jpg",
+            "alt": "vista del centro"
+          },
+          {
+            "url": "images/dintorni/centro_piazza.jpg",
+            "alt": "Piazza e la sua fontana"
+          },
+          {
+            "url": "images/dintorni/centro_strade.jpg",
+            "alt": "Strade di Anzio"
+          },
+          {
+            "url": "images/dintorni/centro_negozi.jpg",
+            "alt": "Negozi del centro storico"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "http://www.comune.anzio.roma.it/"
+        }
+      ]
+    },
+    {
+      "code": "nettunocentro",
+      "name": "Nettuno Center",
+      "description": "Al centro del litorale laziale, tra Anzio e la provincia di Latina, situata sulla costa tirrenica nella zona che precede la provincia di Latina si trova Nettuno. Conosciuta soprattutto come località balneare, Nettuno è anche una località ricca di storia e di cultura. Dai reperti di origine Volsca e Romana alle imponenti costruzioni medioevali, dai musei storici alla recente emeroteca, Nettuno è la custode di un ricco patrimonio storico e culturale, la preziosa eredità lasciata dalle civiltà che nei secoli hanno abitato il territorio nettunese. ",
+      "by": "WALKING",
+      "distancekm": "7 Km con il treno",
+      "distancemin": "30",
+      "tags": [
+        {
+          "name": "SHOPPING"
+        },
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Nettuno, centro",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d23917.32503702721!2d12.619078288644037!3d41.46816697241731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e3!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.4574339!2d12.659518199999999!5e0!3m2!1sit!2sit!4v1514818197460",
+      "images": {
+        "main": {
+          "url": "images/dintorni/nettunocentro.jpg",
+          "alt": "Nettuno centro"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/nettunocentro_borgo.jpg",
+            "alt": "borgo antico Nettuno"
+          },
+          {
+            "url": "images/dintorni/nettunocentro_fontana.jpg",
+            "alt": "fontana di Nettuno"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "http://www.comune.nettuno.roma.it/"
+        }
+      ]
+    },
+    {
+      "code": "cimiteroamericano",
+      "name": "World War American Cemetry",
+      "description": "L'ampia zona del Lazio meridionale che dal colle di Cassino raggiunge la costa sul litorale di Anzio e Nettuno, alla fine della seconda guerra mondiale, fu teatro di cruenti combattimenti tra le truppe alleate e l'esercito di occupazione tedesca sostenuto dalle truppe dei fascisti italiani. Sul litorale, alle fine del gennaio 1944, avvenne lo storico attacco dal mare per raggiungere Roma e liberare l'Italia: lo sbarco di Anzio, noto anche come \"Operazione Shingle\". Sulle spiagge che vanno dal Lido dei Pini fino a Torre Astura, sbarcarono oltre centomila soldati alleati, in gran parte provenienti dagli Stati Uniti d'America. Di questi molti morirono nei combattimenti sulla spiaggia e nelle immediate retrovie. Per ricordare il loro sacrificio è stato costruito a Nettuno un grande cimite​ro con funzione di memoriale. Si chiama \"Sicily-Rome American Cemetery and Memorial\" e, come dice il nome, ospita i caduti americani di tutte le operazioni militari portate a termine per liberare l'Italia, dalla Sicilia a Roma. E' ubicato a Nettuno​, in Piazzale Kennedy n° 1, e vi si trovano 7.860 lapidi bianche. Nella cappella all'interno del cimitero, l'elenco dei 3.095 dispersi di cui 14 sono stati ritrovati. I soldati delle truppe alleate rimasero su questa zona del litorale per oltre quattro mesi prima di entrare trionfanti nella città di Roma liberata nel giugno del 1944.",
+      "by": "WALKING",
+      "distancekm": "8 Km con il treno",
+      "distancemin": "40",
+      "tags": [
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Piazzale Kennedy, 1 - Nettuno",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23917.32503702721!2d12.619413738644052!3d41.46816697241731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325a3774f9a1b7d%3A0x72f7e48ac00c6dee!2sPiazzale+Kennedy%2C+1%2C+00048+Nettuno+RM!3m2!1d41.4670839!2d12.662808499999999!5e0!3m2!1sit!2sit!4v1514820534193",
+      "images": {
+        "main": {
+          "url": "images/dintorni/cimiteroamericano.jpg",
+          "alt": "Cimitero seconda guerra mondiale"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/cimiteroamericano_edificio.jpg",
+            "alt": "ediicio principale cimitero"
+          },
+          {
+            "url": "images/dintorni/cimiteroamericano_fontana.jpg",
+            "alt": "fontana del cimitero di Nettuno"
+          },
+          {
+            "url": "images/dintorni/cimiteroamericano_tombe.jpg",
+            "alt": "croci del cimitero"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "http://www.comune.nettuno.roma.it/"
+        }
+      ]
+    },
+    {
+      "code": "ponza",
+      "name": "Ferry to Ponza",
+      "description": "Ponza  è una delle più interessanti isole del Mediterraneo, con una superficie di circa 722 ettari, una lunghezza di 7.350 metri (da Punta della Guardia a Punta dell'Incenso ) e una larghezza massima di circa 2.000 metri che si restringe tra Cala d'Inferno e Cala dell'Acqua; fino ad una strozzatura di appena 200 mt. E' raggiungibile con partenze da Formia, Terracina e S.Felice Circeo (solo estivo), oltre che da Anzio e Fiumicino (Roma) e Napoli. A Ponza lo scenario d'insieme e le quinte di contorno offrono una vista che rende l'approdo tra i più belli e affascinanti. Il delicato semicerchio di case rosate e bianche che circonda il porto ed il profilo dell'isola offrono visioni di commovente bellezza I fondali sono di una varietà e di una bellezza mai visti, pareti in ombra, coperte di gorgonie e alghe rosse, praterie di posidonia che ondeggiano nelle correnti, massi e macigni tappezzati di pavonie e delicate acetabularie. Il periplo dell'isola permette di apprezzare pienamente lo stupefacente alternarsi di cavità, grotte, scogli, calette, baie, dagli incroci cromatici suggestivi e affascinanti.",
+      "by": "WALKING",
+      "distancekm": "6 Km con il treno",
+      "distancemin": "24",
+      "tags": [
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "Via Molo Innocenziano, Anzio",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d28443.82926532966!2d12.601206791838!3d41.46548590310341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325a4b9ee7812bf%3A0xaafcf349da2e2b54!2sVia+Molo+Innocenziano%2C+00042+Anzio+RM!3m2!1d41.444086!2d12.6342351!5e0!3m2!1sit!2sit!4v1514822840873",
+      "images": {
+        "main": {
+          "url": "images/dintorni/ponza.jpg",
+          "alt": "Ponza"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/ponza_traghetto.jpg",
+            "alt": "traghetti per Ponza"
+          },
+          {
+            "url": "images/dintorni/ponza_traghetto.jpg",
+            "alt": "traghetti per Ponza"
+          },
+          {
+            "url": "images/dintorni/ponza_landscape.jpg",
+            "alt": "vista Ponza"
+          },
+          {
+            "url": "images/dintorni/ponza_mare.jpg",
+            "alt": "mare Ponza"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "http://www.comune.ponza.lt.it/"
+        }
+      ]
+    },
+    {
+      "code": "satateresa",
+      "name": "Church of Santa Teresa",
+      "description": "La canonizzazione di Santa Teresa nel 1925 suscitò l’entusiasmo della cittadina di Anzio che volle dedicarle una basilica. Il progetto in stile romanico gotico venne avviato nel 1926 con la posa della prima pietra e il santuario venne consacrato oltre dieci anni dopo, nel 1939. Passarono ancora vent’anni prima che il santuario venisse elevato a basilica per il suo valore artistico e religioso. La facciata della Basilica di Santa Teresa si presenta con mattoni rustici e un grande rosone in alto. Altri due rosoni decorano i lati del transetto, mentre sulle facciate laterali vetrate colorate contribuiscono a far entrare la luce. Sul lato destro della facciata è posto un campanile in stile romanico alto 45 metri e dotato di 11 campane, simbolo della pace tra i popoli, punto di riferimento dal mare e monumento alla memoria dei caduti della seconda guerra mondiale. Intoro alla facciata principale, negli anni ’50, è stata costruita una cancellata in stile romanico come la facciata. L’interno è a tre navate, con le due laterali più basse di quella centrale. Il soffitto della navata centrale, lunga oltre 50 metri, è caratterizzato da volte a crociera. Sulle navate laterali si ergono i matronei aperti da trifore. La pietra liscia e riva di decorazioni crea un effetto molto suggestivo nel turista o nel fedele che visita la basilica Nell’abside è esposta una statua della santa, illuminata dalle vetrate. Alla sinistra dell’altare si trova la Cappella che conserva le reliquie di Santa Teresa, donate dal monastero di Lisieux dove la santa visse l’ultimo periodo della sua vita. Si tratta della corona e del crocifisso di Santa Teresa e di una sua vertebra. Nella cappella è posta una statua della santa identica a quella conservata nel monastero di Lisieux, mentre le decorazioni sono opera di Carnevali.",
+      "by": "CAR",
+      "distancekm": "5,3 Km",
+      "distancemin": "9",
+      "tags": [
+        {
+          "name": "MONUMENTS"
+        },
+        {
+          "name": "CULT"
+        }
+      ],
+      "address": "Via Santa Teresa, Anzio",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23916.83992331053!2d12.596503938647123!3d41.46948197240978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325a4ace33e035f%3A0x8e176573a5101266!2sParrocchia+Santa+Teresa+Del+Bambin+Gesu&#39;%2C+Via+Santa+Teresa%2C+2%2C+00042+Anzio+RM!3m2!1d41.4532096!2d12.625183199999999!5e0!3m2!1sit!2sit!4v1514824647125",
+      "images": {
+        "main": {
+          "url": "images/dintorni/santateresa.jpg",
+          "alt": "Santa Teresa"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/santateresa_mura.jpg",
+            "alt": "Entrata del piazzale"
+          },
+          {
+            "url": "images/dintorni/santateresa_vista.jpg",
+            "alt": "Vista panoramica"
+          },
+          {
+            "url": "images/dintorni/santateresa_campanile.jpg",
+            "alt": "Campanile"
+          },
+          {
+            "url": "images/dintorni/santateresa_fronte.jpg",
+            "alt": "Vista della Basilica"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina con descrizioni e orari apertura",
+          "url": "http://www.anzio.net/1/santa_teresa_553955.html"
+        }
+      ]
+    },
+    {
+      "code": "laghettogranieri",
+      "name": "Granieri lake",
+      "description": "Il Laghetto Granierisi trova all'interno del bosco del Foglino. Un oasi naturale dove i visitatori passeggiano sulle sponde del lago ammirando le varie specie animali. Il parco, situato ad 1 km dal mare ed a 2 km dal centro cittadino, � ideale per turisti di passaggio, comitive, turismo religioso. Il parco offre ristorazione, aree bimbi, noleggio canoe, aree barbecue. Tra gli eventi diurni: fiere, mostre d'arte varie, gare di modellismo e passeggiate ecologiche. Per gli eventi serali il Laguna Theatre, una struttura di 600 mq al coperto con 160 mq di palcoscenico. La struttura pu� ospitare meeting e cene aziendali.",
+      "by": "CAR",
+      "distancekm": "9,5 Km",
+      "distancemin": "16",
+      "tags": [
+        {
+          "name": "NATURE"
+        }
+      ],
+      "address": "Via Vallepietra 66, Anzio",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47823.02496053383!2d12.617873843906157!3d41.483920850912774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325a3e8f12d1ba7%3A0xb6cd3f409daa6a7f!2sLaghetto+Granieri%2C+00048+Nettuno+RM!3m2!1d41.4691367!2d12.700406!5e0!3m2!1sit!2sit!4v1514828940478",
+      "images": {
+        "main": {
+          "url": "images/dintorni/lagogranieri.jpg",
+          "alt": "Laghetto Granieri"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/lagogranieri_bici.jpg",
+            "alt": "percorsi in bici"
+          },
+          {
+            "url": "images/dintorni/lagogranieri_animali.jpg",
+            "alt": "animali"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Home page del lago",
+          "url": "http://www.laghettogranieri.it/index.php"
+        }
+      ]
+    },
+    {
+      "code": "torreastura",
+      "name": "Torre Astura",
+      "description": "Tra la strada provinciale ed il castello si trova la PINETA DI PROPRIETA' DEMANIALE che occorre attraversare seguendo il corso del fiume Astura fino alla sua foce. Qui compare improvvisamente la pittoresca mole del castello, così come descritta da Gabriele D’Annunzio e la sua forma è sostanzialmente quella datale dai Colonna alla fine del ‘400. La struttura centrale del castello è un’ALTA TORRE A PIANTA PENTAGONALE con uno spigolo rivolto verso il mare. Questa torre, seppure molto rimaneggiata,èl’antica Torre Astura che ha dato nome all’attuale castello di cui essa è comunque la parte preponderante e del quale costituisce il maschio. La torre occupa comunque solo un quinto della superficie costruita dell’intera fortezza (una vera e propria piccola isola fortificata), di cui si scorgono alcune parti ancora munite di merlatura. Il castello è stato varie volte utilizzato nella sceneggiatura di vari film, anche famosi (Brancaleone alle Crociate, Le Avventure di Pinocchio). Tra il forte e la spiaggia corre un PONTICELLO A PICCOLE ARCATE che scavalca una ZONA ARCHEOLOGICA SOMMERSA, ricca di resti romani (sono le tracce di un’antica villa ed in particolare della sua grande peschiera): questo, fino a qualche decennio fa, era luogo prediletto dai 'privati' ricercatori di reperti antichi. La spiaggia antistante il Castello è stata concessa dallo Stato al Comune di Nettuno che ne permette la fruizione da parte dei bagnanti, ma per converso, il passaggio obbligato attraverso la proprietà demaniale rimane permesso solo in alcuni periodi dell’anno. ",
+      "by": "CAR",
+      "distancekm": "18,3 Km",
+      "distancemin": "24",
+      "tags": [
+        {
+          "name": "NATURE"
+        },
+        {
+          "name": "MONUMENTS"
+        },
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "SP106b 2626, Latina",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d60378.76238296779!2d12.64721592266195!3d41.457118913329865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.4240856!2d12.7735703!5e0!3m2!1sit!2sit!4v1514830908704",
+      "images": {
+        "main": {
+          "url": "images/dintorni/torreastura.jpg",
+          "alt": "Torre Astura"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/torreastura_rovine.jpg",
+            "alt": "il castello immerso nel mare"
+          },
+          {
+            "url": "images/dintorni/torreastura_natura.jpg",
+            "alt": "percorsi naturali"
+          },
+          {
+            "url": "images/dintorni/torreastura_spiaggia.jpg",
+            "alt": "spiaggia nei pressi del castello"
+          },
+          {
+            "url": "images/dintorni/torreastura_panorama.jpg",
+            "alt": "panorama"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina dal sito del comune di Nettuno",
+          "url": "http://www.comune.nettuno.roma.it/pagina687_torre-astura.html"
+        }
+      ]
+    },
+    {
+      "code": "zoomarine",
+      "name": "Zoomarine",
+      "description": "Zoomarine Italia è un parco a tema marino che si trova a Torvaianica, sul litorale laziale a circa 25 chilometri da Roma, progettato seguendo il modello di un omonimo parco divertimenti presente in Portogallo ed ispirato ai fantastici parchi SeaWorld americani. Inaugurato nel 2005, Zoomarine offre attrazioni per tutti i gusti, adatte alle famiglie e ai più piccoli, come il nuovo splash battle \"Laguna dei Pirati\", il cinema 4D, la torre di caduta alta 25 metri, il classico percorso acquatico da affrontare a bordo di imbarcazioni a forma di tronco, le montagne russe Vertigo con tanto di giro della morte. Tra le attrazioni più avventurose segnaliamo anche \"L'era dei Dinosauri\" che ricrea una tipica foresta preistorica con dinosauri a grandezza naturale. Nei mesi estivi l'offerta di Zoomarine si amplia ulteriormente con l'Acquapark, un complesso di piscine e scivoli da brivido (Kamikaze, Multislide, Foam) e una laguna di 2.000 mq provvista di una spiaggia in teak con lettini ed ombrelloni gratuiti, giochi per bambini, vasche per idromassaggi e docce terapeutiche. Durante la giornata si svolgono anche alcuni spettacoli con delfini, rapaci, otarie e pappagalli. Da non perdere l'incredibile spettacolo con tuffatori professionisti che senza paura sono sempre pronti a farvi vedere esibizioni davvero uniche, con tuffi da oltre 25 metri di altezza! Tra le novità 2016 di Zoomarine segnaliamo la nuova area acquatica di 2.000 mq con 14 giochi e attrazioni per bambini, il flowrider Surf più grande d'Italia per cavalcare l'onda del divertimento fino all'ultimo splash e l'\"Oasi delle Tartarughe\" che ospita alcuni esemplari di testuggini giganti africane. Tutte le attrazioni di Zoomarine sono usufruibili pagando un solo biglietto d'ingresso. Oltre agli spettacoli e al divertimento, a Zoomarine Italia è possibile passeggiare e rilassarsi in spazi verdi, fare shopping, fermarsi per uno spuntino in uno dei numerosi punti ristoro. ",
+      "by": "CAR",
+      "distancekm": "22,2 Km",
+      "distancemin": "32",
+      "tags": [
+        {
+          "name": "FUN"
+        }
+      ],
+      "address": "Via dei Romagnoli, Torvaianica",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d120560.24718586318!2d12.462134595107027!3d41.56296605115223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x132594a102d55559%3A0x33af6ebf968be635!2sZoomarine%2C+Via+dei+Romagnoli%2C+00040+Torvaianica%2C+Pomezia+RM!3m2!1d41.631109599999995!2d12.459864!5e0!3m2!1sit!2sit!4v1514832153817",
+      "images": {
+        "main": {
+          "url": "images/dintorni/zoomarine.jpg",
+          "alt": "Zoomarine"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/zoomarine_solarium.jpg",
+            "alt": "solarium"
+          },
+          {
+            "url": "images/dintorni/zoomarine_delfini.jpg",
+            "alt": "spettacolo delfini"
+          },
+          {
+            "url": "images/dintorni/zoomarine_alto.jpg",
+            "alt": "panorama"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "https://www.zoomarine.it/"
+        }
+      ]
+    },
+    {
+      "code": "outletcastelromano",
+      "name": "Castel Romano Outlet",
+      "description": "McArthurGlen Castel Romano Designer Outlet offre un’esperienza di shopping unica. A soli 20 minuti da Roma, a Castel Romano Designer Outlet è possibile trovare oltre 200 tra le firme più importanti, tra cui Blumarine, Furla e Loriblu, a prezzi ridotti dal 30% al 70% tutto l’anno. Una visita a Castel Romano Designer Outlet è molto di più di una semplice esperienza di shopping: bar, ristoranti ed eventi, che renderanno unica e assolutamente indimenticabile la tua giornata dedicata agli acquisti.",
+      "by": "CAR",
+      "distancekm": "36,2 Km",
+      "distancemin": "33",
+      "tags": [
+        {
+          "name": "SHOPPING"
+        }
+      ],
+      "address": "Via Ponte di Piscina Cupa 64, Castel Romano",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d170382.06759567818!2d12.432100284042354!3d41.60686088674557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x13258d57a0cd9ec1%3A0xd079cec552ae1227!2sVia+del+Ponte+di+Piscina+Cupa%2C+64%2C+00128+Castel+Romano+RM!3m2!1d41.717714!2d12.4470162!5e0!3m2!1sit!2sit!4v1514848909510",
+      "images": {
+        "main": {
+          "url": "images/dintorni/outletcastelromano.jpg",
+          "alt": "Castel Romano outlet"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/outletcastelromano_view.jpg",
+            "alt": "vie dell'outlet"
+          },
+          {
+            "url": "images/dintorni/outletcastelromano_negozi.jpg",
+            "alt": "negozi"
+          },
+          {
+            "url": "images/dintorni/outletcastelromano_alto.jpg",
+            "alt": "panorama"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito ufficiale",
+          "url": "https://www.mcarthurglen.com/it/castel-romano-designer-outlet/it/"
+        }
+      ]
+    },
+    {
+      "code": "fogliano",
+      "name": "Fogliano lake",
+      "description": "Immerso nel silenzio della natura incontaminata, il Lago di Fogliano è il più grande tra i laghi costieri della provincia pontina (gli altri sono Caprolace, Monaci e Paola); si estende su una superficie di circa 4 chilometri 4 e si trova all’interno del Borgo di Villa Fogliano. Dal 1978 fa parte del territorio protetto del Parco Nazionale del Circeo ed è classificato \"Zona Umida di importanza internazionale\"; soprattutto nei periodi più caldi viene affollato da persone che lo scelgono per la sua pace e la sua tranquillità, per trascorrere giornate all’aria aperta con amici o parenti op per far lunghe passeggiate in compagnia della natura. Habitat ideale per la sosta, svernamento e nidificazione di numerosissime specie dell'avifauna migratoria, il lago di Fogliano è particolarmente indicato per il bird​watching e l'osservazione naturalistica. Si trova all’interno del Borgo di Fogliano edificato alla fine del ‘700 e costituito da un complesso di edifici storici per lungo tempo possedimento della famiglia Caetani, a cui si deve la creazione dell'orto botanico, in cui vennero riunite numerose specie vegetali provenienti da tutto il mondo. Al suo interno oggi è stato realizzato un percorso per non vedenti.",
+      "by": "CAR",
+      "distancekm": "36,7 Km",
+      "distancemin": "48",
+      "tags": [
+        {
+          "name": "NATURE"
+        },
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Str. di Fogliano, Latina",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1376.4196615352387!2d12.915031486929161!3d41.39728940297974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.397342099999996!2d12.9158244!5e1!3m2!1sit!2sit!4v1514850412590",
+      "images": {
+        "main": {
+          "url": "images/dintorni/fogliano.jpg",
+          "alt": "Lago di Fogliano"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/fogliano_percorsi.jpg",
+            "alt": "passeggiste sulla riva"
+          },
+          {
+            "url": "images/dintorni/fogliano_prato.jpg",
+            "alt": "il prato di fronte al lago"
+          },
+          {
+            "url": "images/dintorni/fogliano_vista.jpg",
+            "alt": "vista del lago"
+          },
+          {
+            "url": "images/dintorni/fogliano_strutture.jpg",
+            "alt": "panorama"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina da guida turistica",
+          "url": "http://www.settemuse.it/viaggi_italia_lazio/latina_lago_fogliano.htm"
+        }
+      ]
+    },
+    {
+      "code": "lagonemi",
+      "name": "Nemi lake",
+      "description": "Il Lago di Nemi è un lago di origine vulcanica che si trova tra Nemi e Genzano di Roma, nel territorio dei Castelli Romani e copre circa 1,60 chilometri quadrati. Il lago fa parte della zona conosciuta come il complesso vulcanico dei Colli Albani. Il Lago di Nemi e l'area intorno ad esso rappresenta un ambiente naturale davvero affascinante: si può passeggiare in campagna, circondati da una fitta vegetazione, boschi di querce e castagni, viti e pietre scolpite nella roccia vulcanica. Dall'antico borgo di Nemi,  attrraverso il pendio vicino al lago, si può prendere un ripido sentiero che si snoda tra i vigneti.  Nel territorio intorno al lago di Nemi si possono scoprire meravigliosi reperti archeologici come i resti del Tempio di Diana e l'Emissario del lago. Inoltre potrete gustare una romantica cena nei ristoranti sulle rive del lago, dove si possono testare deliziosi piatti circondati da una magica atmosfera.",
+      "by": "CAR",
+      "distancekm": "36,7 Km",
+      "distancemin": "48",
+      "tags": [
+        {
+          "name": "NATURE"
+        },
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Via Diana, Nemi",
+      "mapcoords": "41.721875,12.701108",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d157527.48474105578!2d12.504089185081808!3d41.60338204037726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.7212539!2d12.700887199999999!5e0!3m2!1sit!2sit!4v1514909652377",
+      "images": {
+        "main": {
+          "url": "images/dintorni/nemi.jpg",
+          "alt": "Lago di Nemi"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/nemi_citta.jpg",
+            "alt": "La città di Nemi"
+          },
+          {
+            "url": "images/dintorni/nemi_giardino.jpg",
+            "alt": "Il giardino con la vista sul lago"
+          },
+          {
+            "url": "images/dintorni/nemi_panorama.jpg",
+            "alt": "Panorama della città di Nemi"
+          },
+          {
+            "url": "images/dintorni/nemi_lago.jpg",
+            "alt": "Il lago sulla riva"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina da guida turistica",
+          "url": "http://www.inforoma.org/c2/Provincia-di-Roma/p15-Lago-di-Nemi.html"
+        }
+      ]
+    },
+    {
+      "code": "ninfa",
+      "name": "Ninfa gardens",
+      "description": "A poco meno di un’ora da San Felice Circeo c’è un giardino unico nel suo genere dove antichi ruderi di una città un tempo prosperosa si fondono con piante rare e secolari. I Giardini di Ninfa nascono sulle ceneri di Ninfa, ridente cittadina medievale sull’unica via di comunicazione che da Roma portava al sud, sicura dai briganti e dalla palude insalubre che infestava quelle zone. Ninfa riceveva il dazio dei passanti e prosperava nell’arte e nella cultura, appena sotto ad un castello importante, il Castello Caetani di Sermoneta. Il giardino botanico di Ninfa è un tipico esempio di giardino all’inglese. La costruzione del parco iniziò negli anni 20 e proseguì negli anni 30 ad opera della famiglia Caetani. Lelia, l’ultima rappresentante della famiglia che aveva posseduto Ninfa e Sermoneta per 700 anni, non ebbe eredi e lasciò il castello ed il giardino alla fondazione Caetani che tuttora si occupa del giardino di NInfa.",
+      "by": "CAR",
+      "distancekm": "38,4 Km",
+      "distancemin": "44",
+      "tags": [
+        {
+          "name": "NATURE"
+        },
+        {
+          "name": "MONUMENTS"
+        }
+      ],
+      "address": "Via Torrecchia Nuova, Cisterna Di Latina",
+      "mapcoords": "41.583408,12.952954",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d135175.65360764434!2d12.688651502173071!3d41.5261969839293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x13257206f0552575%3A0x38b44067a4237cdd!2sGiardino+di+Ninfa%2C+Via+Provinciale+Ninfina%2C+Cisterna+di+Latina%2C+LT!3m2!1d41.582221!2d12.955392!5e0!3m2!1sit!2sit!4v1514910300638",
+      "images": {
+        "main": {
+          "url": "images/dintorni/ninfa.jpg",
+          "alt": "Giardino di Ninfa"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/ninfa_ponte.jpg",
+            "alt": "Ponticello nel giardino"
+          },
+          {
+            "url": "images/dintorni/ninfa_castello.jpg",
+            "alt": "Il castello"
+          },
+          {
+            "url": "images/dintorni/ninfa_ruscello.jpg",
+            "alt": "Percorsi da visitare"
+          },
+          {
+            "url": "images/dintorni/ninfa_vista.jpg",
+            "alt": "Vista panoramica"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito Ufficiale. Necessario prenotare per le visite.",
+          "url": "http://www.giardinodininfa.eu/"
+        }
+      ]
+    },
+    {
+      "code": "pianaorme",
+      "name": "Piana delle Orme Museum",
+      "description": "Piana delle orme è il nome di uno dei musei a carattere storico – etnologico più importanti a livello internazionale, realizzato grazie ad una vastissima collezione privata di mezzi sia agricoli sia militari. Si tratta di un parco tematico dedicato al Novecento. Oltre 40 mila mq di esposizione (suddivisi in quindici padiglioni) per raccontare le tradizioni e la cultura della civiltà contadina, le grandi opere di bonifica delle Paludi Pontine, la Seconda Guerra Mondiale, ma anche per mostrare i mezzi agli albori della grande industrializzazione e i giocattoli con i quali si divertivano i bambini di una volta. L’impostazione scenografica del museo, realizzata attraverso fedeli ricostruzioni in scala 1:1, offre ai visitatori la sensazione di entrare nella storia, di rivivere il passato. Data la tipologia delle sue collezioni, il percorso di Piana delle orme è stato suddiviso in due percorsi principali: Percorso Agricolo e Percorso Bellico. I padiglioni tematici del Percorso Agricolo comprendono: Giocattolo d’Epoca, Bonifica delle Paludi Pontine, Mezzi Agricoli d’Epoca, Vita nei Campi. I padiglioni tematici del Percorso Bellico comprendono: Deportazioni ed Internamento, Mezzi Bellici d’Epoca, Da El Alamein a Messina, Sbarco di Anzio, Battaglia di Cassino, Mezzi Bellici riconvertiti ad Uso Civile. Ogni padiglione è fornito di pannelli didattici e audio guide, anche in inglese e tedesco, che spiegano e illustrano il percorso. La durata media della visita è di circa 4 ore. I servizi di accoglienza offrono bar, self-service, area pic-nic, area manifestazioni, sala congressi e shop.",
+      "by": "CAR",
+      "distancekm": "44,2 Km",
+      "distancemin": "47",
+      "tags": [
+        {
+          "name": "NATURE"
+        },
+        {
+          "name": "FUN"
+        }
+      ],
+      "address": "Strada Migliara 43, Latina",
+      "mapcoords": "41.4429177,12.9839476",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d135246.13278740272!2d12.690870021147077!3d41.49245108967666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x13250dc408acb4a5%3A0xdd4a95c5106bb0a7!2sPiana+delle+Orme%2C+Strada+Migliara+43+1%2F2%2C+29%2C+04100+Latina+LT!3m2!1d41.4430707!2d12.9863834!5e0!3m2!1sit!2sit!4v1514911802261",
+      "images": {
+        "main": {
+          "url": "images/dintorni/pianaorme.jpg",
+          "alt": "Piana delle Orme"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/pianaorme_ricostruzione.jpg",
+            "alt": "Ricostruzioni storiche"
+          },
+          {
+            "url": "images/dintorni/pianaorme_treno.jpg",
+            "alt": "Uno dei veri treni presenti nel parco"
+          },
+          {
+            "url": "images/dintorni/pianaorme_aereo.jpg",
+            "alt": "Relitto aereo Seconda Guerra Mondiale"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Sito Ufficiale",
+          "url": "http://pianadelleorme.com/"
+        },
+        {
+          "name": "Pagina Facebook",
+          "url": "https://www.facebook.com/museopianadelleorme/"
+        }
+      ]
+    },
+    {
+      "code": "sainttropez",
+      "name": "Saint Tropez beach resort",
+      "description": "Spiaggia zona Marechiaro di Anzio. Ottimo ristorante con vista spiaggia.",
+      "by": "BIKE",
+      "distancekm": "2 Km",
+      "distancemin": "10",
+      "tags": [
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "Via Ardeatina 105, Anzio",
+      "mapcoords": "41.4790675,12.5985633",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d8454.598109747709!2d12.601678113441187!3d41.47930801130296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325bcbc9efbefff%3A0x5d846de8832179d8!2sSaint+Tropez%2C+Via+Ardeatina%2C+Anzio%2C+RM!3m2!1d41.4735395!2d12.6037816!5e0!3m2!1sit!2sit!4v1514914102576",
+      "images": {
+        "main": {
+          "url": "images/dintorni/sainttropez.jpg",
+          "alt": "Saint Tropez beach resort"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/sainttropez_spiaggia.jpg",
+            "alt": "Spiaggia del Saint Tropez"
+          },
+          {
+            "url": "images/dintorni/sainttropez_tramonto.jpg",
+            "alt": "Tramonto dalla spiaggia"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina Facebook",
+          "url": "https://www.facebook.com/sainttropezanzio/"
+        }
+      ]
+    },
+    {
+      "code": "bluebay",
+      "name": "Blue Bay beach resort",
+      "description": "Stabilimento balneare incentrato sul divertimento, nel quale sia di giorno che di notte si organizzano feste, cene, e spettacoli a tema. Da anni ormai animiamo la movida del litorale di Anzio, inoltre rallegriamo le giornate dei nostri clienti più piccoli con mini club, gonfiabili e gare tutto a suon di musica.",
+      "by": "BIKE",
+      "distancekm": "2,5 Km",
+      "distancemin": "12",
+      "tags": [
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "Via Ardeatina 103, Anzio",
+      "mapcoords": "41.4771114,12.5985633",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11957.012556464337!2d12.598563332043494!3d41.47711141809436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325bca4574083c7%3A0x7ffec9be8cd64763!2sBlue+Bay%2C+Via+Ardeatina%2C+Anzio%2C+RM!3m2!1d41.4696274!2d12.6061854!5e0!3m2!1sit!2sit!4v1514917305203",
+      "images": {
+        "main": {
+          "url": "images/dintorni/bluebay.jpg",
+          "alt": "Blue Bay beach resort"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/bluebay_spiaggia.jpg",
+            "alt": "Spiaggia del Blue Bay"
+          },
+          {
+            "url": "images/dintorni/bluebay_panoramica.jpg",
+            "alt": "Panoramica"
+          },
+          {
+            "url": "images/dintorni/bluebay_musica.jpg",
+            "alt": "Musica sulla spiaggia"
+          },
+          {
+            "url": "images/dintorni/bluebay_night.jpg",
+            "alt": "Aperitivo e relax sulla spiaggia by night"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina Facebook",
+          "url": "https://www.facebook.com/blue.bay.anzio/"
+        },
+        {
+          "name": "Tripadvisor",
+          "url": "https://www.tripadvisor.it/Attraction_Review-g194670-d4740593-Reviews-Blue_Bay-Anzio_Province_of_Rome_Lazio.html"
+        }
+      ]
+    },
+    {
+      "code": "colonia",
+      "name": "Anzio Colonia",
+      "description": "Quartiere di Anzio vicino al mare e ricco di negozi.",
+      "by": "BIKE",
+      "distancekm": "3,6 Km",
+      "distancemin": "15",
+      "tags": [
+        {
+          "name": "SHOPPING"
+        }
+      ],
+      "address": "Viale Marconi, Anzio",
+      "mapcoords": "41.4727784,12.6062049",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d20110.562327633503!2d12.606204890914777!3d41.47277835515036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.4619417!2d12.6145594!5e0!3m2!1sit!2sit!4v1514917829191",
+      "images": {
+        "main": {
+          "url": "images/dintorni/colonia.jpg",
+          "alt": "Quartiere Anzio Colonia"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/colonia_negozi.jpg",
+            "alt": "Corso Marconi e i suoi negozi"
+          },
+          {
+            "url": "images/dintorni/colonia_parco.jpg",
+            "alt": "Il mini parco per i bambini"
+          },
+          {
+            "url": "images/dintorni/colonia_ristoranti.jpg",
+            "alt": "Anzio Colonia offre una varietà di ristoranti"
+          },
+          {
+            "url": "images/dintorni/colonia_surfshop.jpg",
+            "alt": "Per i surfisti è un luogo obbligato"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina Facebook",
+          "url": "https://www.facebook.com/blue.bay.anzio/"
+        }
+      ]
+    },
+    {
+      "code": "rivazzurra",
+      "name": "Rivazzurra beach",
+      "description": "Lo stabilimento balneare Rivazzurra sorge a pochi metri dai resti della “Antica Villa di Nerone”, la dimora estiva dell’imperatore romano nella tranquilla e rilassante città di Anzio. Rivazzurra è una struttura moderna con servizi dedicati allo svago e alle attività di ragazzi, bambini e famiglie. Dotata di confort di qualità, la spiaggia oltre ad ospitarvi in un ambiente fresco e controllato, offre ai nostri clienti tre campi per il beach volley, noleggio di pedalò e canoe, area giochi per i più piccoli, docce calde e fredde, servizi di infermeria e strutture per agevolare i disabili. Gli ombrelloni e le attrezzature balneari messe a disposizione vengono controllate ogni giorno e mantenute con le migliori cure. In un’atmosfera piacevole e frizzante, Rivazzurra offre ai suoi clienti la miglior esperienza balneare per rendere ogni estate unica e indimenticabile. La nostra tavola calda si serve esclusivamente del pescato fresco locale e di alimenti di alta qualità cucinati dal nostro personale specializzato. Protagonista della cucina è il pesce in tutte le sue varianti, anche se non mancano secondi di carne fresca e piatti della cucina tipica romana e locale.",
+      "by": "BIKE",
+      "distancekm": "4,7 Km",
+      "distancemin": "20",
+      "tags": [
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "Via Ardeatina 9, Anzio",
+      "mapcoords": "41.4675228,12.6014839",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d28442.93570325508!2d12.601483945861013!3d41.46752280130553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m5!1s0x1325bb5253cbda7b%3A0xb295e725ef8bc961!2sRivazzurra+S.R.L.%2C+Via+Ardeatina%2C+9%2C+00042+Anzio+RM!3m2!1d41.4527231!2d12.6185343!5e0!3m2!1sit!2sit!4v1514918398177",
+      "images": {
+        "main": {
+          "url": "images/dintorni/rivazzurra.jpg",
+          "alt": "Rivazzurra beach"
+        },
+        "gallery": [
+          {
+            "url": "images/dintorni/rivazzurra_spiaggia.jpg",
+            "alt": "Spiaggia del Rivazzurra"
+          }
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina Facebook",
+          "url": "https://www.facebook.com/rivazzurra/"
+        }
+      ]
+    },
+    {
+      "code": "gigli",
+      "name": "Beach \"Lido dei Gigli\"",
+      "description": "La Spiaggia Lido dei Gigli è situata nel comune di Anzio, circa 7 chilometri dopo Lido dei Pini e uno prima di Lavinio. E' uno dei pochi lembi di costa a sud di Roma ancora non cementificati, all'interno dell'area consortile privata Lido dei Gigli, un tempo appartenente alla famiglia aristocratica romana dei Borghese. Si tratta di una suggestiva spiaggia di sabbia dorata, orlata da splendide formazioni dunali che dominano il paesaggio, alte anche 20 metri, punteggiate da rigogliosa macchia mediterranea e piante selvatiche della famiglia delle Liliaceae, ispiratrici del nome alla località. Alle spalle delle dune si trova una profumata pineta di circa 56 ettari ed un boschetto di lecci. Il mare è molto bello, azzurro, cristallino e trasparente, con fondali digradanti e sabbiosi, ideale per fare il bagno e nuotare. Raggiungere la spiaggia del Lido dei Gigli si deve intraprendere la SP in direzione Anzio, svoltando all'ultima a destra prima del campeggio nella pineta della Gallinara, in località Lido dei Pini: arrivati in fondo, si svolta a sinistra e si parcheggia, percorrendo l'ultimo tratto a piedi lungo una sterrata.",
+      "by": "BIKE",
+      "distancekm": "5 Km",
+      "distancemin": "22",
+      "tags": [
+        {
+          "name": "SEA"
+        }
+      ],
+      "address": "Via Degli Usignoli, Anzio",
+      "mapcoords": "41.512023,12.573651",
+      "googlemapembed": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d23906.953126741748!2d12.57674123870991!3d41.49627472225655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.5089184!2d12.5758227!5e0!3m2!1sit!2sit!4v1514919955096",
+      "images": {
+        "main": {
+          "url": "images/dintorni/lidogigli.jpg",
+          "alt": "Lido dei Gigli"
+        },
+        "gallery": [
+          
+        ]
+      },
+      "urls": [
+        {
+          "name": "Pagina informazioni",
+          "url": "http://iluoghidelcuore.it/luoghi/anzio/lido-dei-gigli/26141"
+        }
+      ]
+    }
+  ]
+}
