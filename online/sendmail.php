@@ -15,6 +15,26 @@ include("lib/class.smtp.php");
 $name = $_POST['contactname'];
 $emailfrom = $_POST['contactemail'];
 $message = $_POST['contactmsg'];
+$verify = $_POST['verify'];
+
+
+$url = 'https://www.google.com/recaptcha/api/siteverify';
+$data = array('secret' => '6LeAdEMUAAAAABqdhYKWc1DDmZU3irbJ8XiN1j_C', 'response' => $verify);
+
+// use key 'http' even if you send the request to https://...
+$options = array(
+		'http' => array(
+				'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+				'method'  => 'POST',
+				'content' => http_build_query($data)
+		)
+);
+$context  = stream_context_create($options);
+$result = file_get_contents($url, false, $context);
+if ($result === FALSE) { die("Error validation response"); }
+
+$result = json_decode($result);
+if($result->success == false) die("Error validation verify");
 
 //Create a new PHPMailer instance
 $mail = new PHPMailer;
@@ -36,7 +56,7 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication
 $mail->Username = "hello@nafidha.it";
 //Password to use for SMTP authentication
-$mail->Password = "8volante!";
+$mail->Password = "r@&7qN.+H&aE";
 //Set who the message is to be sent from
 $mail->setFrom($emailfrom, $name);
 //Set an alternative reply-to address

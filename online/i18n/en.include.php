@@ -25,10 +25,18 @@ define("LBLMONUMENTS", "Monuments");
 define("LBLNATURE", "Nature");
 define("LBLSHOPPING", "Shopping");
 define("LBLCULT", "Cult");
+define("LBLFUN", "Fun");
+define("LBLCULTURE", "Culture");
 
 define("LBLNVR", "Nevermind");
 define("LBLWALK", "Walking");
 define("LBLBIKE", "Using bike");
 define("LBLCAR", "By car");
+
+define("LBLFRMNAME", "Name");
+define("LBLFRMEMAIL", "Email");
+define("LBLFRMMESSAGE", "Insert your message");
+define("LBLFRMSENDMESSAGE", "Send message");
+define("LBLFRMRESET", "Clear the form");
 
 ?>

@@ -15,7 +15,7 @@
 	});
 
 	$(function() {
-
+		
 		var	$window = $(window),
 			$body = $('body');
 

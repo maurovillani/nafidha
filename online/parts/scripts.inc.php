@@ -8,7 +8,7 @@
 <script src="frontlib/fancybox/jquery.fancybox.min.js"></script> 
 <script src="frontlib/isotope/isotope.min.js"></script>
 <script src="frontlib/isotope/packery-mode.min.js"></script>
-<script src="frontlib/imagesloaded/imagesloaded.min.js"></script>  
+<script src="frontlib/imagesloaded/imagesloaded.min.js"></script>
 <script src="assets/js/main.js"></script>
 
 <script>

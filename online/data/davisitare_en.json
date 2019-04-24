@@ -1,12 +1,17 @@
 {
-	"header": "Places",
-  	"intro": "Discover the best places around Nafidha.",
+  "header": "Places",
+  "intro": "Discover the best places around Nafidha.",
   "type": "dintorni",
+  "lbldettagli": "Details",
+  	"lblcosatroverai": "What will you find",
+  	"lblcomearrivare": "How to arrive",
+  	"lbldistanza": "Distance",
+  	"lbllink": "External links",
   "items": [
     {
       "code": "torcaldara",
       "name": "Tor Caldara nature reserve",
-      "description": "Riserva naturale di 44 ettari, istituita nel 1988, situata tra Anzio e Lido di Lavinio al Km. 34,400 della via Ardeatina, costituisce uno degli ultimi lembi delle migliaia di ettari di bosco che ricoprivano il Lazio fino agli inizi del 1900.  \r\nLa riserva costituisce un esempio di foresta mediterranea a prevalenza di sempreverdi: lecci, che ne costituiscono il 70%, sugheri, erica arborea, corbezzolo; nelle zone più umide troviamo ontani, pioppi, tremuli, farnie.\r\nRicca anche di fauna composta da rettili, nove specie, anfibi, cinque specie, uccelli, cinquanta specie e mammiferi vari. Sono  ospitate nella riserva di Tor Caldara decine di esemplari di tartarughe che offrono una simpatica accoglienza a tutti i visitatori.La torre: sorge sul punto più alto di un promontorio che permetteva di controllare la costa da Tor San Lorenzo ad Anzio. La costruzione risale alla metà del 500. La riserva costituisce un esempio di foresta mediterranea a prevalenza di sempreverdi: lecci, che ne costituiscono il 70%, sugheri, erica arborea, corbezzolo; nelle zone più umide troviamo ontani, pioppi, tremuli, farnie.\r\nLe Sorgenti: da iscriversi a fenomeni tardo magmatici relativi all’antico Vulcano laziale. Le sorgenti di acqua sulfurea calda, oramai molto ridotta, fuoriescono dal terreno alla portata di circa 2 litri al secondo. Nell’antichità l’estrazione dello zolfo rappresentò una considerevole attività economica della zona, iniziata in età romana e ripresa nel 500.",
+      "description": "Nature reserve of 44 hectares, established in 1988, located between Anzio and Lido di Lavinio at Km. 34.400 of the Via Ardeatina, is one of the last strips of the thousands of hectares of wood that covered Lazio until the beginning of 1900. The reserve constitutes a example of a Mediterranean forest with a prevalence of evergreens: holm oaks, which make up 70% of them, corks, heather, arbutus; in the most humid areas we find alders, poplars, tremuli, farnias. Also rich in fauna consisting of reptiles, nine species, amphibians, five species, birds, fifty species and various mammals. There are dozens of turtles housed in the Tor Caldara reserve that offer a friendly welcome to all visitors. The tower: stands on the highest point of a promontory that allowed to control the coast from Tor San Lorenzo to Anzio. The construction dates back to the middle of the 16th century. The reserve is an example of a Mediterranean forest with a prevalence of evergreens: holm oaks, which make up 70% of them, corks, heather, arbutus; in the most humid areas we find alders, poplars, tremuli, farnias. The Sources: to be enrolled in late magmatic phenomena related to the ancient Lazio Volcano. The hot sulphurous water springs, now very small, come out of the ground at a rate of about 2 liters per second. In ancient times the extraction of sulfur represented a considerable economic activity of the area, begun in Roman times and resumed in 500.",
       "by": "BIKE",
       "distancekm": "1.9 Km",
       "distancemin": "22",
@@ -42,7 +47,7 @@
       },
       "urls": [
         {
-          "name": "Sito regione Lazio",
+          "name": "Site of the Lazio region",
           "url": "http://www.parchilazio.it/torcaldara"
         }
       ]
@@ -50,7 +55,7 @@
     {
       "code": "tvillage",
       "name": "Free beach and T-Village beach resort",
-      "description": "Il T-Village! si trova sulla spiaggia di Tor Caldara a pochi km dalla famosa città di mare di Anzio tra i lidi più belli di Roma. \r\nIl T-Village! è uno stabilimento balneare 4 stelle, con animazione per piccoli e grandi, miniclub e giochi gonfiabili in acqua, cabine con doccia calda, cabine spogliatoio, piccola biblioteca e Internet WiFi, servizio ristorante, tavola calda e bar. La spiaggia è sabbiosa e difesa da barriere frangiflutti, soluzione ideale per famiglie con bambini. L'assenza di barriere architettoniche rende il T-Village! uno stabilimento balneare accessibile.\nBenvenuto al T-Village!",
+      "description": "The T-Village! It is located on Tor Caldara beach, a few km from the famous seaside town of Anzio, among the most beautiful beaches of Rome. The T-Village! It is a 4-star beach establishment, with entertainment for children and adults, miniclubs and inflatable games in the water, cabins with hot showers, changing rooms, a small library and WiFi Internet, a restaurant, a snack bar and a bar. The beach is sandy and protected by breakwaters, ideal for families with children. The absence of architectural barriers makes the T-Village! an accessible bathhouse.",
       "by": "WALKING",
       "distancekm": "1.5 Km",
       "distancemin": "17",
@@ -79,7 +84,7 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "http://www.t-village.it/"
         }
       ]
@@ -87,9 +92,9 @@
     {
       "code": "zodiaco",
       "name": "Zodiaco Mall",
-      "description": "Centro commerciale, ampio parcheggio, negozi di abbigliamento ed elettronica, bar",
+      "description": "Shopping center accessible for the disabled with ample parking. Clothing stores and electronics, supermarket, herbalist and organic food, bar and hairdresser",
       "by": "WALKING",
-      "distancekm": "2.5 Km con il treno",
+      "distancekm": "2.5 Km with train",
       "distancemin": "13",
       "tags": [
         {
@@ -116,7 +121,7 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "http://www.centrozodiaco.it/"
         }
       ]
@@ -124,9 +129,9 @@
     {
       "code": "anziocentro",
       "name": "Anzio Center",
-      "description": "Passata alla storia per lo sbarco delle truppe americane durante la II Guerra Mondiale, Anzio è ricordata come città natale di Nerone, che qui nacque il 15 dicembre del 37 d.C. e diede splendore e ricchezza alla cittadina. Anzio vive ancora oggi di quel glorioso passato le cui tracce sono visibili nella Villa Imperiale, ubicata tra il faro e il porto neroniano. Anzio è meta turistica  per gli appassionati di storia, per la sua bellissima costa e il porto turistico, e per la possibilità di praticare diversi sport acquatici, offrendo relax, svago e divertimenti, e interessanti siti dall'elevato valore storico e culturale. Situata a circa 60 km sulla costa a sud di Roma, la città di Anzio vanta un'antica storia con i primi insediamenti umani già dall'età protostorica. Conquistata dai Volsci agli inizi del V secolo a.C., diviene colonia romana nel 338 a.C.. La vicinanza a Roma e la favorevole posizione sul mare rendono Anzio una delle mete più ambite dall'élite aristocratica dell'Urbe che, a partire dal periodo tardo-repubblicano, sceglie questa località per far edificare numerose ville lungo la fascia costiera. Con l'età imperiale l'antica Antium, città natale degli imperatori Caligola e Nerone, raggiunge il suo massimo splendore e con la fine dell'Impero romano affronta un periodo di progressiva decadenza che termina solo nel XVII secolo, quando gli alti prelati della corte papale romana scelgono Capo d'Anzio come luogo di villeggiatura e di caccia. Alla sontuosa villa imperiale si sostituiscono le lussuose residenze aristocratiche: Villa Adele, attuale sede del Museo Civico Archeologico di Anzio, Villa Corsini - Sarsina, sede di rappresentanza del Comune, e Villa Albani. Con la realizzazione di un nuovo porto ad opera di papa Innocenzo XII (1691-1700), si rilancia la vocazione marittima e commerciale della cittadina che diviene comune autonomo nel 1857. Fortemente danneggiata durante i bombardamenti della II Guerra Mondiale e teatro di uno sbarco alleato, al quale è dedicato il Museo all'interno di Villa Adele, è ricostruita e rilanciata nell'immediato dopoguerra.",
+      "description": "Passed to history by the landing of the American troops during the II World War, Anzio is remembered as the birthplace of Nero, who was born here on December 15 of 37 AD. and gave splendor and wealth to the town. Anzio still lives today of that glorious past whose traces are visible in the Villa Imperiale, located between the lighthouse and the Neronian port. Anzio is a tourist destination for history buffs, for its beautiful coastline and marina, and for the possibility of practicing various water sports, offering relaxation, leisure and entertainment, and interesting sites of high historical and cultural value. Located about 60 km on the coast south of Rome, the city of Anzio boasts an ancient history with the first human settlements since the protohistoric age. Conquered by the Volsci family at the beginning of the 5th century BC, it became a Roman colony in 338 BC The proximity to Rome and its favorable position on the sea make Anzio one of the most sought after destinations by the aristocratic elite of the Urbe which, starting from the late Republican period , chooses this location to build numerous villas along the coastal strip. With the imperial age the ancient Antium, birthplace of the emperors Caligula and Nero, reaches its maximum splendor and with the end of the Roman Empire faces a period of progressive decline that ends only in the seventeenth century, when the high prelates of the court Roman papal choose Capo d'Anzio as a place of holiday and hunting. The sumptuous imperial villa is replaced by the luxurious aristocratic residences: Villa Adele, now home to the Anzio Archaeological Civic Museum, Villa Corsini - Sarsina, the Town Hall, and Villa Albani. With the construction of a new port by Pope Innocent XII (1691-1700), the maritime and commercial vocation of the town is re-launched, becoming an autonomous municipality in 1857. Strongly damaged during the bombing of World War II and the scene of an allied landing , to whom the Museum is dedicated inside Villa Adele, is rebuilt and re-launched in the immediate post-war period.",
       "by": "WALKING",
-      "distancekm": "5 Km con il treno",
+      "distancekm": "5 Km with train",
       "distancemin": "25",
       "tags": [
         {
@@ -139,7 +144,7 @@
       "address": "Anzio, centro",
       "googlemapembed": "https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d23918.30251135683!2d12.604211349687178!3d41.46551722449821!3m2!1i1024!2i768!4f13.1!4m11!3e3!4m5!1s0x1325bcc88dc5d515%3A0xf27ff26d67bc607!2sVia+Adda%2C+32%2C+I-00042+Anzio+RM%2C+Italia!3m2!1d41.484553299999995!2d12.6116742!4m3!3m2!1d41.447592!2d12.629633499999999!5e0!3m2!1sit!2sit!4v1514816753569",
       "images": {
-         "main": {
+        "main": {
           "url": "images/dintorni/centro.jpg",
           "alt": "Citta di Anzio"
         },
@@ -153,18 +158,18 @@
             "alt": "Piazza e la sua fontana"
           },
           {
-            "url": "images/dintorni/centro_strade.jpg",
-            "alt": "Strade di Anzio"
-          },
-          {
             "url": "images/dintorni/centro_negozi.jpg",
             "alt": "Negozi del centro storico"
+          },
+          {
+            "url": "images/dintorni/centro_spiagge.jpg",
+            "alt": "Spiagge del centro"
           }
         ]
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "http://www.comune.anzio.roma.it/"
         }
       ]
@@ -172,9 +177,9 @@
     {
       "code": "nettunocentro",
       "name": "Nettuno Center",
-      "description": "Al centro del litorale laziale, tra Anzio e la provincia di Latina, situata sulla costa tirrenica nella zona che precede la provincia di Latina si trova Nettuno. Conosciuta soprattutto come località balneare, Nettuno è anche una località ricca di storia e di cultura. Dai reperti di origine Volsca e Romana alle imponenti costruzioni medioevali, dai musei storici alla recente emeroteca, Nettuno è la custode di un ricco patrimonio storico e culturale, la preziosa eredità lasciata dalle civiltà che nei secoli hanno abitato il territorio nettunese. ",
+      "description": "At the center of the Lazio coast, between Anzio and the province of Latina, located on the Tyrrhenian coast in the area that precedes the province of Latina is Nettuno. Known above all as a seaside resort, Nettuno is also a place rich in history and culture. From the findings of Volsca and Romana origin to the imposing medieval buildings, from the historical museums to the recent newspaper library, Nettuno is the custodian of a rich historical and cultural heritage, the precious legacy left by the civilizations that over the centuries have inhabited the territory of Nettuno. ",
       "by": "WALKING",
-      "distancekm": "7 Km con il treno",
+      "distancekm": "7 Km with train",
       "distancemin": "30",
       "tags": [
         {
@@ -204,7 +209,7 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "http://www.comune.nettuno.roma.it/"
         }
       ]
@@ -212,9 +217,9 @@
     {
       "code": "cimiteroamericano",
       "name": "World War American Cemetry",
-      "description": "L'ampia zona del Lazio meridionale che dal colle di Cassino raggiunge la costa sul litorale di Anzio e Nettuno, alla fine della seconda guerra mondiale, fu teatro di cruenti combattimenti tra le truppe alleate e l'esercito di occupazione tedesca sostenuto dalle truppe dei fascisti italiani. Sul litorale, alle fine del gennaio 1944, avvenne lo storico attacco dal mare per raggiungere Roma e liberare l'Italia: lo sbarco di Anzio, noto anche come \"Operazione Shingle\". Sulle spiagge che vanno dal Lido dei Pini fino a Torre Astura, sbarcarono oltre centomila soldati alleati, in gran parte provenienti dagli Stati Uniti d'America. Di questi molti morirono nei combattimenti sulla spiaggia e nelle immediate retrovie. Per ricordare il loro sacrificio è stato costruito a Nettuno un grande cimite​ro con funzione di memoriale. Si chiama \"Sicily-Rome American Cemetery and Memorial\" e, come dice il nome, ospita i caduti americani di tutte le operazioni militari portate a termine per liberare l'Italia, dalla Sicilia a Roma. E' ubicato a Nettuno​, in Piazzale Kennedy n° 1, e vi si trovano 7.860 lapidi bianche. Nella cappella all'interno del cimitero, l'elenco dei 3.095 dispersi di cui 14 sono stati ritrovati. I soldati delle truppe alleate rimasero su questa zona del litorale per oltre quattro mesi prima di entrare trionfanti nella città di Roma liberata nel giugno del 1944.",
+      "description": "The large area of ​​southern Lazio that from the Cassino hill reaches the coast on the coast of Anzio and Nettuno, at the end of the Second World War, was the scene of bloody fighting between the allied troops and the German occupation army supported by fascist troops Italian. On the coast, at the end of January 1944, occurred the historic attack from the sea to reach Rome and liberate Italy: the landing of Anzio, also known as \"Operation Shingle\". On the beaches that go from Lido dei Pini to Torre Astura, more than one hundred thousand Allied soldiers disembarked, mostly coming from the United States of America. Of these many died in fighting on the beach and in the immediate back areas. To commemorate their sacrifice, a large cimite ro has been built in Neptune with the function of a memorial. It is called \"Sicily-Rome American Cemetery and Memorial\" and, as the name implies, it hosts the American fallen of all the military operations carried out to free Italy, from Sicily to Rome. It is located in Nettuno, in Piazzale Kennedy n ° 1, and there are 7,860 white gravestones. In the chapel inside the cemetery, the list of 3,095 missing, of which 14 were found. The soldiers of the allied troops remained on this area of ​​the coast for more than four months before entering triumphantly in the city of Rome freed in June 1944.",
       "by": "WALKING",
-      "distancekm": "8 Km con il treno",
+      "distancekm": "8 Km with train",
       "distancemin": "40",
       "tags": [
         {
@@ -245,17 +250,17 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
-          "url": "http://www.comune.nettuno.roma.it/"
+          "name": "official site",
+          "url": "https://www.abmc.gov/cemeteries-memorials/europe/sicily-rome-american-cemetery/"
         }
       ]
     },
     {
       "code": "ponza",
       "name": "Ferry to Ponza",
-      "description": "Ponza  è una delle più interessanti isole del Mediterraneo, con una superficie di circa 722 ettari, una lunghezza di 7.350 metri (da Punta della Guardia a Punta dell'Incenso ) e una larghezza massima di circa 2.000 metri che si restringe tra Cala d'Inferno e Cala dell'Acqua; fino ad una strozzatura di appena 200 mt. E' raggiungibile con partenze da Formia, Terracina e S.Felice Circeo (solo estivo), oltre che da Anzio e Fiumicino (Roma) e Napoli. A Ponza lo scenario d'insieme e le quinte di contorno offrono una vista che rende l'approdo tra i più belli e affascinanti. Il delicato semicerchio di case rosate e bianche che circonda il porto ed il profilo dell'isola offrono visioni di commovente bellezza I fondali sono di una varietà e di una bellezza mai visti, pareti in ombra, coperte di gorgonie e alghe rosse, praterie di posidonia che ondeggiano nelle correnti, massi e macigni tappezzati di pavonie e delicate acetabularie. Il periplo dell'isola permette di apprezzare pienamente lo stupefacente alternarsi di cavità, grotte, scogli, calette, baie, dagli incroci cromatici suggestivi e affascinanti.",
+      "description": "Ponza is one of the most interesting islands in the Mediterranean, with an area of ​​about 722 hectares, a length of 7.350 meters (from Punta della Guardia to Punta dell'Incenso) and a maximum width of about 2,000 meters that narrows between Cala d'Inferno and Cala dell'Acqua; up to a narrowing of just 200 meters. It can be reached with departures from Formia, Terracina and S.Felice Circeo (summer only), as well as from Anzio and Fiumicino (Rome) and Naples. In Ponza, the overall scenery and contour wings offer a view that makes the landing one of the most beautiful and fascinating. The delicate semicircle of pink and white houses surrounding the harbor and the island's profile offer visions of moving beauty The seabed is of a variety and beauty never seen before, walls in shade, covered with gorgonians and red algae, grasslands of posidonia swaying in the currents, boulders and paved boulders of pavones and delicate acetabularias. The circumnavigation of the island allows you to fully appreciate the amazing alternation of cavities, caves, rocks, coves, bays, with suggestive and fascinating chromatic intersections.",
       "by": "WALKING",
-      "distancekm": "6 Km con il treno",
+      "distancekm": "6 Km with train",
       "distancemin": "24",
       "tags": [
         {
@@ -290,15 +295,15 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "http://www.comune.ponza.lt.it/"
         }
       ]
     },
     {
-      "code": "satateresa",
+      "code": "santateresa",
       "name": "Church of Santa Teresa",
-      "description": "La canonizzazione di Santa Teresa nel 1925 suscitò l’entusiasmo della cittadina di Anzio che volle dedicarle una basilica. Il progetto in stile romanico gotico venne avviato nel 1926 con la posa della prima pietra e il santuario venne consacrato oltre dieci anni dopo, nel 1939. Passarono ancora vent’anni prima che il santuario venisse elevato a basilica per il suo valore artistico e religioso. La facciata della Basilica di Santa Teresa si presenta con mattoni rustici e un grande rosone in alto. Altri due rosoni decorano i lati del transetto, mentre sulle facciate laterali vetrate colorate contribuiscono a far entrare la luce. Sul lato destro della facciata è posto un campanile in stile romanico alto 45 metri e dotato di 11 campane, simbolo della pace tra i popoli, punto di riferimento dal mare e monumento alla memoria dei caduti della seconda guerra mondiale. Intoro alla facciata principale, negli anni ’50, è stata costruita una cancellata in stile romanico come la facciata. L’interno è a tre navate, con le due laterali più basse di quella centrale. Il soffitto della navata centrale, lunga oltre 50 metri, è caratterizzato da volte a crociera. Sulle navate laterali si ergono i matronei aperti da trifore. La pietra liscia e riva di decorazioni crea un effetto molto suggestivo nel turista o nel fedele che visita la basilica Nell’abside è esposta una statua della santa, illuminata dalle vetrate. Alla sinistra dell’altare si trova la Cappella che conserva le reliquie di Santa Teresa, donate dal monastero di Lisieux dove la santa visse l’ultimo periodo della sua vita. Si tratta della corona e del crocifisso di Santa Teresa e di una sua vertebra. Nella cappella è posta una statua della santa identica a quella conservata nel monastero di Lisieux, mentre le decorazioni sono opera di Carnevali.",
+      "description": "The canonization of Santa Teresa in 1925 aroused the enthusiasm of the town of Anzio who wanted to dedicate a basilica to it. The project in Romanesque Gothic style was started in 1926 with the laying of the first stone and the sanctuary was consecrated more than ten years later, in 1939. Twenty years passed before the sanctuary was elevated to the basilica for its artistic and religious value. The façade of the Basilica of Santa Teresa comes with rustic bricks and a large rose window at the top. Two more rosettes decorate the sides of the transept, while on the colored glass side facades they help to let in the light. On the right side of the façade there is a Romanesque bell tower 45 meters high and with 11 bells, symbol of peace among the peoples, reference point from the sea and monument to the memory of the fallen of the second world war. On the main façade, in the 50s, a Romanesque-style gate was built like the façade. The interior has three naves, with the two sides lower than the central one. The ceiling of the central nave, more than 50 meters long, is characterized by cross vaults. On the side aisles there are the open galleries with three-light windows. The smooth stone and decoration bank creates a very suggestive effect in the tourist or in the faithful who visits the basilica. In the apse there is a statue of the saint, illuminated by the windows. To the left of the altar is the Chapel that preserves the relics of Santa Teresa, donated by the monastery of Lisieux where the saint lived the last period of her life. This is the crown and the crucifix of Santa Teresa and its vertebra. In the chapel there is a statue of the saint identical to the one kept in the monastery of Lisieux, while the decorations are the work of Carnevali.",
       "by": "CAR",
       "distancekm": "5,3 Km",
       "distancemin": "9",
@@ -338,7 +343,7 @@
       },
       "urls": [
         {
-          "name": "Pagina con descrizioni e orari apertura",
+          "name": "Opening time and description web page",
           "url": "http://www.anzio.net/1/santa_teresa_553955.html"
         }
       ]
@@ -346,7 +351,7 @@
     {
       "code": "laghettogranieri",
       "name": "Granieri lake",
-      "description": "Il Laghetto Granierisi trova all'interno del bosco del Foglino. Un oasi naturale dove i visitatori passeggiano sulle sponde del lago ammirando le varie specie animali. Il parco, situato ad 1 km dal mare ed a 2 km dal centro cittadino, � ideale per turisti di passaggio, comitive, turismo religioso. Il parco offre ristorazione, aree bimbi, noleggio canoe, aree barbecue. Tra gli eventi diurni: fiere, mostre d'arte varie, gare di modellismo e passeggiate ecologiche. Per gli eventi serali il Laguna Theatre, una struttura di 600 mq al coperto con 160 mq di palcoscenico. La struttura pu� ospitare meeting e cene aziendali.",
+      "description": "The Granierisi Laghetto is located inside the Foglino wood. A natural oasis where visitors stroll on the shores of the lake admiring the various animal species. The park, located 1 km from the sea and 2 km from the city center, is ideal for passing tourists, groups, religious tourism. The park offers restaurants, children's areas, canoe rental, barbecue areas. Among the day events: fairs, various art exhibitions, modeling competitions and ecological walks. For the evening events the Laguna Theater, a 600 square meter indoor structure with 160 square meters of stage. The structure can host meetings and business dinners.",
       "by": "CAR",
       "distancekm": "9,5 Km",
       "distancemin": "16",
@@ -375,7 +380,7 @@
       },
       "urls": [
         {
-          "name": "Home page del lago",
+          "name": "Home page",
           "url": "http://www.laghettogranieri.it/index.php"
         }
       ]
@@ -383,7 +388,7 @@
     {
       "code": "torreastura",
       "name": "Torre Astura",
-      "description": "Tra la strada provinciale ed il castello si trova la PINETA DI PROPRIETA' DEMANIALE che occorre attraversare seguendo il corso del fiume Astura fino alla sua foce. Qui compare improvvisamente la pittoresca mole del castello, così come descritta da Gabriele D’Annunzio e la sua forma è sostanzialmente quella datale dai Colonna alla fine del ‘400. La struttura centrale del castello è un’ALTA TORRE A PIANTA PENTAGONALE con uno spigolo rivolto verso il mare. Questa torre, seppure molto rimaneggiata,èl’antica Torre Astura che ha dato nome all’attuale castello di cui essa è comunque la parte preponderante e del quale costituisce il maschio. La torre occupa comunque solo un quinto della superficie costruita dell’intera fortezza (una vera e propria piccola isola fortificata), di cui si scorgono alcune parti ancora munite di merlatura. Il castello è stato varie volte utilizzato nella sceneggiatura di vari film, anche famosi (Brancaleone alle Crociate, Le Avventure di Pinocchio). Tra il forte e la spiaggia corre un PONTICELLO A PICCOLE ARCATE che scavalca una ZONA ARCHEOLOGICA SOMMERSA, ricca di resti romani (sono le tracce di un’antica villa ed in particolare della sua grande peschiera): questo, fino a qualche decennio fa, era luogo prediletto dai 'privati' ricercatori di reperti antichi. La spiaggia antistante il Castello è stata concessa dallo Stato al Comune di Nettuno che ne permette la fruizione da parte dei bagnanti, ma per converso, il passaggio obbligato attraverso la proprietà demaniale rimane permesso solo in alcuni periodi dell’anno. ",
+      "description": "Between the provincial road and the castle is the pine forest owned by the state that must be crossed following the course of the river Astura up to its mouth. Here suddenly appears the picturesque bulk of the castle, as described by Gabriele D'Annunzio and its shape is substantially that dating from the Colonna at the end of '400. The central structure of the castle is a tall pentagonal tower with a corner facing the sea. This tower, although very remodeled, is the ancient Astura Tower which gave its name to the current castle of which it is still the predominant part and of which it constitutes the male. However, the tower occupies only one fifth of the built area of ​​the entire fortress (a real small fortified island), of which some parts still can be seen with battlements. The castle has been used several times in the screenplay of several famous films (Brancaleone alle Crusades, The Adventures of Pinocchio). Between the fort and the beach runs a small arch bridge that crosses a submerged archaeological area, rich in Roman remains (are traces of an ancient villa and in particular of its great fish pond): this, until a few decades ago, was a favorite place for 'private' researchers of ancient finds. The beach in front of the castle was granted by the State to the City of Neptune which allows its use by bathers, but conversely, the obligatory passage through the state property remains permitted only in certain periods of the year. ",
       "by": "CAR",
       "distancekm": "18,3 Km",
       "distancemin": "24",
@@ -426,7 +431,7 @@
       },
       "urls": [
         {
-          "name": "Pagina dal sito del comune di Nettuno",
+          "name": "Page from the site of the town of Nettuno",
           "url": "http://www.comune.nettuno.roma.it/pagina687_torre-astura.html"
         }
       ]
@@ -434,7 +439,7 @@
     {
       "code": "zoomarine",
       "name": "Zoomarine",
-      "description": "Zoomarine Italia è un parco a tema marino che si trova a Torvaianica, sul litorale laziale a circa 25 chilometri da Roma, progettato seguendo il modello di un omonimo parco divertimenti presente in Portogallo ed ispirato ai fantastici parchi SeaWorld americani. Inaugurato nel 2005, Zoomarine offre attrazioni per tutti i gusti, adatte alle famiglie e ai più piccoli, come il nuovo splash battle \"Laguna dei Pirati\", il cinema 4D, la torre di caduta alta 25 metri, il classico percorso acquatico da affrontare a bordo di imbarcazioni a forma di tronco, le montagne russe Vertigo con tanto di giro della morte. Tra le attrazioni più avventurose segnaliamo anche \"L'era dei Dinosauri\" che ricrea una tipica foresta preistorica con dinosauri a grandezza naturale. Nei mesi estivi l'offerta di Zoomarine si amplia ulteriormente con l'Acquapark, un complesso di piscine e scivoli da brivido (Kamikaze, Multislide, Foam) e una laguna di 2.000 mq provvista di una spiaggia in teak con lettini ed ombrelloni gratuiti, giochi per bambini, vasche per idromassaggi e docce terapeutiche. Durante la giornata si svolgono anche alcuni spettacoli con delfini, rapaci, otarie e pappagalli. Da non perdere l'incredibile spettacolo con tuffatori professionisti che senza paura sono sempre pronti a farvi vedere esibizioni davvero uniche, con tuffi da oltre 25 metri di altezza! Tra le novità 2016 di Zoomarine segnaliamo la nuova area acquatica di 2.000 mq con 14 giochi e attrazioni per bambini, il flowrider Surf più grande d'Italia per cavalcare l'onda del divertimento fino all'ultimo splash e l'\"Oasi delle Tartarughe\" che ospita alcuni esemplari di testuggini giganti africane. Tutte le attrazioni di Zoomarine sono usufruibili pagando un solo biglietto d'ingresso. Oltre agli spettacoli e al divertimento, a Zoomarine Italia è possibile passeggiare e rilassarsi in spazi verdi, fare shopping, fermarsi per uno spuntino in uno dei numerosi punti ristoro. ",
+      "description": "Zoomarine Italia is a marine theme park located in Torvaianica, on the Lazio coast about 25 kilometers from Rome, designed following the model of a homonymous amusement park present in Portugal and inspired by the fantastic American SeaWorld parks. Opened in 2005, Zoomarine offers attractions for all tastes, suitable for families and children, such as the new splash battle \"Laguna dei Pirati\", the 4D cinema, the 25 meter high fall tower, the classic water path to tackle edge of boats in the shape of a trunk, the Vertigo roller coaster with a lot of turn of death. Among the more adventurous attractions we also mention \"The Age of the Dinosaurs\" which recreates a typical prehistoric forest with life-sized dinosaurs. In the summer months Zoomarine's offer is further extended with the Acquapark, a complex of pools and chill slides (Kamikaze, Multislide, Foam) and a 2,000 sqm lagoon with a teak beach with free sunbeds and umbrellas, games for children, whirlpools and therapeutic showers. During the day there are also some shows with dolphins, birds of prey, sea lions and parrots. Do not miss the incredible show with professional divers who without fear are always ready to show you really unique performances, with dives from over 25 meters in height! Among Zoomarine's 2016 news, we point out the new 2,000 sq m water area with 14 games and attractions for children, the largest surf flowrider in Italy to ride the wave of fun to the last splash and the \"Oasis of the Turtles\" which houses some specimens of African giant tortoises. All Zoomarine attractions can be used by paying only one admission ticket. In addition to shows and entertainment, at Zoomarine Italia you can walk and relax in green spaces, go shopping, stop for a snack in one of the many restaurants.",
       "by": "CAR",
       "distancekm": "22,2 Km",
       "distancemin": "32",
@@ -467,15 +472,15 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "https://www.zoomarine.it/"
         }
       ]
     },
     {
       "code": "outletcastelromano",
-      "name": "Castel Romano Outlet",
-      "description": "McArthurGlen Castel Romano Designer Outlet offre un’esperienza di shopping unica. A soli 20 minuti da Roma, a Castel Romano Designer Outlet è possibile trovare oltre 200 tra le firme più importanti, tra cui Blumarine, Furla e Loriblu, a prezzi ridotti dal 30% al 70% tutto l’anno. Una visita a Castel Romano Designer Outlet è molto di più di una semplice esperienza di shopping: bar, ristoranti ed eventi, che renderanno unica e assolutamente indimenticabile la tua giornata dedicata agli acquisti.",
+      "name": "Castel Romano Designer Outlet",
+      "description": "McArthurGlen Castel Romano Designer Outlet offers a unique shopping experience. Just 20 minutes from Rome, at Castel Romano Designer Outlet you can find over 200 of the most important brands, including Blumarine, Furla and Loriblu, at reduced prices from 30% to 70% all year round. A visit to Castel Romano Designer Outlet is much more than just a shopping experience: bars, restaurants and events that will make your shopping day unique and absolutely unforgettable.",
       "by": "CAR",
       "distancekm": "36,2 Km",
       "distancemin": "33",
@@ -508,7 +513,7 @@
       },
       "urls": [
         {
-          "name": "Sito ufficiale",
+          "name": "official site",
           "url": "https://www.mcarthurglen.com/it/castel-romano-designer-outlet/it/"
         }
       ]
@@ -516,7 +521,7 @@
     {
       "code": "fogliano",
       "name": "Fogliano lake",
-      "description": "Immerso nel silenzio della natura incontaminata, il Lago di Fogliano è il più grande tra i laghi costieri della provincia pontina (gli altri sono Caprolace, Monaci e Paola); si estende su una superficie di circa 4 chilometri 4 e si trova all’interno del Borgo di Villa Fogliano. Dal 1978 fa parte del territorio protetto del Parco Nazionale del Circeo ed è classificato \"Zona Umida di importanza internazionale\"; soprattutto nei periodi più caldi viene affollato da persone che lo scelgono per la sua pace e la sua tranquillità, per trascorrere giornate all’aria aperta con amici o parenti op per far lunghe passeggiate in compagnia della natura. Habitat ideale per la sosta, svernamento e nidificazione di numerosissime specie dell'avifauna migratoria, il lago di Fogliano è particolarmente indicato per il bird​watching e l'osservazione naturalistica. Si trova all’interno del Borgo di Fogliano edificato alla fine del ‘700 e costituito da un complesso di edifici storici per lungo tempo possedimento della famiglia Caetani, a cui si deve la creazione dell'orto botanico, in cui vennero riunite numerose specie vegetali provenienti da tutto il mondo. Al suo interno oggi è stato realizzato un percorso per non vedenti.",
+      "description": "Immersed in the silence of unspoiled nature, Lago di Fogliano is the largest of the coastal lakes of the Pontine province (the others are Caprolace, Monaci and Paola); it covers an area of about 4 kilometers 4 and is located inside the Borgo di Villa Fogliano. Since 1978 it is part of the protected territory of the Circeo National Park and is classified as a \"Wetland of international importance\"; especially in the hottest periods it is crowded by people who choose it for its peace and tranquility, to spend days outdoors with friends or relatives op for long walks in the company of nature. Habitat ideal for staging, wintering and nesting of numerous species of migratory avifauna, the Fogliano lake is particularly suitable for bird watching and naturalistic observation. It is located inside the village of Fogliano built at the end of the 1700s and consists of a complex of historical buildings for a long time owned by the Caetani family, which is responsible for the creation of the botanical garden, where many plant species were gathered Worldwide. Inside today a path for the blind has been realized.",
       "by": "CAR",
       "distancekm": "36,7 Km",
       "distancemin": "48",
@@ -556,7 +561,7 @@
       },
       "urls": [
         {
-          "name": "Pagina da guida turistica",
+          "name": "Page from tourist guide",
           "url": "http://www.settemuse.it/viaggi_italia_lazio/latina_lago_fogliano.htm"
         }
       ]
@@ -564,7 +569,7 @@
     {
       "code": "lagonemi",
       "name": "Nemi lake",
-      "description": "Il Lago di Nemi è un lago di origine vulcanica che si trova tra Nemi e Genzano di Roma, nel territorio dei Castelli Romani e copre circa 1,60 chilometri quadrati. Il lago fa parte della zona conosciuta come il complesso vulcanico dei Colli Albani. Il Lago di Nemi e l'area intorno ad esso rappresenta un ambiente naturale davvero affascinante: si può passeggiare in campagna, circondati da una fitta vegetazione, boschi di querce e castagni, viti e pietre scolpite nella roccia vulcanica. Dall'antico borgo di Nemi,  attrraverso il pendio vicino al lago, si può prendere un ripido sentiero che si snoda tra i vigneti.  Nel territorio intorno al lago di Nemi si possono scoprire meravigliosi reperti archeologici come i resti del Tempio di Diana e l'Emissario del lago. Inoltre potrete gustare una romantica cena nei ristoranti sulle rive del lago, dove si possono testare deliziosi piatti circondati da una magica atmosfera.",
+      "description": "The Lake of Nemi is a lake of volcanic origin that is located between Nemi and Genzano di Roma, in the territory of the Roman Castles and covers about 1.60 square kilometers. The lake is part of the area known as the volcanic complex of the Alban Hills. The Lake of Nemi and the area around it is a truly fascinating natural environment: you can walk in the countryside, surrounded by dense vegetation, oak and chestnut woods, vines and stones carved into the volcanic rock. From the ancient village of Nemi, through the slope near the lake, you can take a steep path that winds through the vineyards. In the area around the lake of Nemi you can discover wonderful archaeological finds such as the remains of the Temple of Diana and the Emissary of the lake. You can also enjoy a romantic dinner in the restaurants on the banks of the lake, where you can test delicious dishes surrounded by a magical atmosphere.",
       "by": "CAR",
       "distancekm": "36,7 Km",
       "distancemin": "48",
@@ -605,7 +610,7 @@
       },
       "urls": [
         {
-          "name": "Pagina da guida turistica",
+          "name": "Page from tourist guide",
           "url": "http://www.inforoma.org/c2/Provincia-di-Roma/p15-Lago-di-Nemi.html"
         }
       ]
@@ -613,7 +618,7 @@
     {
       "code": "ninfa",
       "name": "Ninfa gardens",
-      "description": "A poco meno di un’ora da San Felice Circeo c’è un giardino unico nel suo genere dove antichi ruderi di una città un tempo prosperosa si fondono con piante rare e secolari. I Giardini di Ninfa nascono sulle ceneri di Ninfa, ridente cittadina medievale sull’unica via di comunicazione che da Roma portava al sud, sicura dai briganti e dalla palude insalubre che infestava quelle zone. Ninfa riceveva il dazio dei passanti e prosperava nell’arte e nella cultura, appena sotto ad un castello importante, il Castello Caetani di Sermoneta. Il giardino botanico di Ninfa è un tipico esempio di giardino all’inglese. La costruzione del parco iniziò negli anni 20 e proseguì negli anni 30 ad opera della famiglia Caetani. Lelia, l’ultima rappresentante della famiglia che aveva posseduto Ninfa e Sermoneta per 700 anni, non ebbe eredi e lasciò il castello ed il giardino alla fondazione Caetani che tuttora si occupa del giardino di NInfa.",
+      "description": "A little less than an hour from San Felice Circeo there is a unique garden where the ancient ruins of a once prosperous city merge with rare and secular plants. The Gardens of Ninfa are born on the ashes of Ninfa, a charming medieval town on the only road that from Rome led to the south, safe from the brigands and the unhealthy swamp that infested those areas. Ninfa received the duty of passers-by and prospered in the art and culture, just below an important castle, the Caetani Castle of Sermoneta. The botanical garden of Ninfa is a typical example of an English garden. The construction of the park began in the 20s and continued in the 30s by the Caetani family. Lelia, the last representative of the family who had owned Ninfa and Sermoneta for 700 years, had no heirs and left the castle and the garden at the Caetani foundation that still deals with the NInfa garden.",
       "by": "CAR",
       "distancekm": "38,4 Km",
       "distancemin": "44",
@@ -644,7 +649,7 @@
           },
           {
             "url": "images/dintorni/ninfa_ruscello.jpg",
-            "alt": "Percorsi da visitare"
+            "alt": "Percorsi Places"
           },
           {
             "url": "images/dintorni/ninfa_vista.jpg",
@@ -654,7 +659,7 @@
       },
       "urls": [
         {
-          "name": "Sito Ufficiale. Necessario prenotare per le visite.",
+          "name": "official site. Need to book for visits",
           "url": "http://www.giardinodininfa.eu/"
         }
       ]
@@ -662,13 +667,13 @@
     {
       "code": "pianaorme",
       "name": "Piana delle Orme Museum",
-      "description": "Piana delle orme è il nome di uno dei musei a carattere storico – etnologico più importanti a livello internazionale, realizzato grazie ad una vastissima collezione privata di mezzi sia agricoli sia militari. Si tratta di un parco tematico dedicato al Novecento. Oltre 40 mila mq di esposizione (suddivisi in quindici padiglioni) per raccontare le tradizioni e la cultura della civiltà contadina, le grandi opere di bonifica delle Paludi Pontine, la Seconda Guerra Mondiale, ma anche per mostrare i mezzi agli albori della grande industrializzazione e i giocattoli con i quali si divertivano i bambini di una volta. L’impostazione scenografica del museo, realizzata attraverso fedeli ricostruzioni in scala 1:1, offre ai visitatori la sensazione di entrare nella storia, di rivivere il passato. Data la tipologia delle sue collezioni, il percorso di Piana delle orme è stato suddiviso in due percorsi principali: Percorso Agricolo e Percorso Bellico. I padiglioni tematici del Percorso Agricolo comprendono: Giocattolo d’Epoca, Bonifica delle Paludi Pontine, Mezzi Agricoli d’Epoca, Vita nei Campi. I padiglioni tematici del Percorso Bellico comprendono: Deportazioni ed Internamento, Mezzi Bellici d’Epoca, Da El Alamein a Messina, Sbarco di Anzio, Battaglia di Cassino, Mezzi Bellici riconvertiti ad Uso Civile. Ogni padiglione è fornito di pannelli didattici e audio guide, anche in inglese e tedesco, che spiegano e illustrano il percorso. La durata media della visita è di circa 4 ore. I servizi di accoglienza offrono bar, self-service, area pic-nic, area manifestazioni, sala congressi e shop.",
+      "description": "Piana delle orme is the name of one of the most important historical and ethnological museums on an international level, thanks to a vast private collection of both agricultural and military vehicles. This is a theme park dedicated to the twentieth century. Over 40 thousand square meters of exhibition (divided into fifteen pavilions) to tell the traditions and culture of the peasant civilization, the great reclamation works of the Pontine Marshes, the Second World War, but also to show the means at the dawn of the great industrialization and toys with whom the children of the past enjoyed themselves. The scenographic setting of the museum, realized through faithful reconstructions on a 1: 1 scale, offers visitors the sensation of entering history, of reliving the past. Given the type of its collections, the path of Piana delle Orme has been divided into two main routes: Agricultural Path and Bellico Route. The thematic pavilions of the Agricultural Route include: Vintage Toy, Reclamation of Pontine Marshes, Vintage Agricultural Vehicles, Life in the Fields. The thematic pavilions of the Bellico Route include: Deportations and Internamento, Vintage Bellici Vehicles, From El Alamein to Messina, Landing of Anzio, Battaglia di Cassino, Bellici Vehicles converted to Civil Use. Each pavilion is equipped with educational panels and audio guides, also in English and German, which explain and illustrate the route. The average duration of the visit is about 4 hours. The reception services offer bar, self-service, picnic area, events area, congress hall and shop.",
       "by": "CAR",
       "distancekm": "44,2 Km",
       "distancemin": "47",
       "tags": [
         {
-          "name": "NATURE"
+          "name": "CULTURE"
         },
         {
           "name": "FUN"
@@ -694,16 +699,20 @@
           {
             "url": "images/dintorni/pianaorme_aereo.jpg",
             "alt": "Relitto aereo Seconda Guerra Mondiale"
+          },
+          {
+            "url": "images/dintorni/pianaorme_carro.jpg",
+            "alt": "Un carro armato parcheggiato :)"
           }
         ]
       },
       "urls": [
         {
-          "name": "Sito Ufficiale",
+          "name": "official site",
           "url": "http://pianadelleorme.com/"
         },
         {
-          "name": "Pagina Facebook",
+          "name": "Facebook page",
           "url": "https://www.facebook.com/museopianadelleorme/"
         }
       ]
@@ -711,7 +720,7 @@
     {
       "code": "sainttropez",
       "name": "Saint Tropez beach resort",
-      "description": "Spiaggia zona Marechiaro di Anzio. Ottimo ristorante con vista spiaggia.",
+      "description": "Beach area Marechiaro di Anzio. Excellent restaurant overlooking the beach.",
       "by": "BIKE",
       "distancekm": "2 Km",
       "distancemin": "10",
@@ -741,7 +750,7 @@
       },
       "urls": [
         {
-          "name": "Pagina Facebook",
+          "name": "Facebook page",
           "url": "https://www.facebook.com/sainttropezanzio/"
         }
       ]
@@ -749,7 +758,7 @@
     {
       "code": "bluebay",
       "name": "Blue Bay beach resort",
-      "description": "Stabilimento balneare incentrato sul divertimento, nel quale sia di giorno che di notte si organizzano feste, cene, e spettacoli a tema. Da anni ormai animiamo la movida del litorale di Anzio, inoltre rallegriamo le giornate dei nostri clienti più piccoli con mini club, gonfiabili e gare tutto a suon di musica.",
+      "description": "Bathhouse centered on fun, where parties, dinners and theme shows are organized both day and night.",
       "by": "BIKE",
       "distancekm": "2,5 Km",
       "distancemin": "12",
@@ -786,8 +795,12 @@
         ]
       },
       "urls": [
+      	{
+          "name": "official site",
+          "url": "http://www.bluebayanzio.it/"
+        },
         {
-          "name": "Pagina Facebook",
+          "name": "Facebook page",
           "url": "https://www.facebook.com/blue.bay.anzio/"
         },
         {
@@ -799,11 +812,14 @@
     {
       "code": "colonia",
       "name": "Anzio Colonia",
-      "description": "Quartiere di Anzio vicino al mare e ricco di negozi.",
+      "description": "Anzio district near the sea. The Anzio Colonia beach, is a small strip of beach on the Tyrrhenian coast of the famous Lazio seaside resort awarded with the Blue Flag 2017..",
       "by": "BIKE",
       "distancekm": "3,6 Km",
       "distancemin": "15",
       "tags": [
+      	{
+          "name": "SEA"
+        },
         {
           "name": "SHOPPING"
         }
@@ -837,15 +853,15 @@
       },
       "urls": [
         {
-          "name": "Pagina Facebook",
-          "url": "https://www.facebook.com/blue.bay.anzio/"
+        	"name": "Trovaspiagge",
+        	"url": "https://www.trovaspiagge.it/spiaggia/lazio/anzio/anzio/colonia/"
         }
       ]
     },
     {
       "code": "rivazzurra",
       "name": "Rivazzurra beach",
-      "description": "Lo stabilimento balneare Rivazzurra sorge a pochi metri dai resti della “Antica Villa di Nerone”, la dimora estiva dell’imperatore romano nella tranquilla e rilassante città di Anzio. Rivazzurra è una struttura moderna con servizi dedicati allo svago e alle attività di ragazzi, bambini e famiglie. Dotata di confort di qualità, la spiaggia oltre ad ospitarvi in un ambiente fresco e controllato, offre ai nostri clienti tre campi per il beach volley, noleggio di pedalò e canoe, area giochi per i più piccoli, docce calde e fredde, servizi di infermeria e strutture per agevolare i disabili. Gli ombrelloni e le attrezzature balneari messe a disposizione vengono controllate ogni giorno e mantenute con le migliori cure. In un’atmosfera piacevole e frizzante, Rivazzurra offre ai suoi clienti la miglior esperienza balneare per rendere ogni estate unica e indimenticabile. La nostra tavola calda si serve esclusivamente del pescato fresco locale e di alimenti di alta qualità cucinati dal nostro personale specializzato. Protagonista della cucina è il pesce in tutte le sue varianti, anche se non mancano secondi di carne fresca e piatti della cucina tipica romana e locale.",
+      "description": "The Rivazzurra bathing establishment is located a few meters from the ruins of the \"Antica Villa di Nerone\", the summer residence of the Roman emperor in the quiet and relaxing town of Anzio. Rivazzurra is a modern structure with services dedicated to leisure and activities for children, children and families. Equipped with quality comforts, the beach as well as hosting you in a cool and controlled environment, offers our customers three fields for beach volleyball, rental of pedal boats and canoes, play area for children, hot and cold showers, infirmary services and facilities to facilitate the disabled. The umbrellas and bathing facilities made available are checked every day and maintained with the best care. In a pleasant and sparkling atmosphere, Rivazzurra offers its customers the best bathing experience to make each summer unique and unforgettable. Our hot table uses only fresh local fish and high quality food cooked by our specialized staff.",
       "by": "BIKE",
       "distancekm": "4,7 Km",
       "distancemin": "20",
@@ -871,7 +887,7 @@
       },
       "urls": [
         {
-          "name": "Pagina Facebook",
+          "name": "Facebook page",
           "url": "https://www.facebook.com/rivazzurra/"
         }
       ]
@@ -879,7 +895,7 @@
     {
       "code": "gigli",
       "name": "Beach \"Lido dei Gigli\"",
-      "description": "La Spiaggia Lido dei Gigli è situata nel comune di Anzio, circa 7 chilometri dopo Lido dei Pini e uno prima di Lavinio. E' uno dei pochi lembi di costa a sud di Roma ancora non cementificati, all'interno dell'area consortile privata Lido dei Gigli, un tempo appartenente alla famiglia aristocratica romana dei Borghese. Si tratta di una suggestiva spiaggia di sabbia dorata, orlata da splendide formazioni dunali che dominano il paesaggio, alte anche 20 metri, punteggiate da rigogliosa macchia mediterranea e piante selvatiche della famiglia delle Liliaceae, ispiratrici del nome alla località. Alle spalle delle dune si trova una profumata pineta di circa 56 ettari ed un boschetto di lecci. Il mare è molto bello, azzurro, cristallino e trasparente, con fondali digradanti e sabbiosi, ideale per fare il bagno e nuotare. Raggiungere la spiaggia del Lido dei Gigli si deve intraprendere la SP in direzione Anzio, svoltando all'ultima a destra prima del campeggio nella pineta della Gallinara, in località Lido dei Pini: arrivati in fondo, si svolta a sinistra e si parcheggia, percorrendo l'ultimo tratto a piedi lungo una sterrata.",
+      "description": "Lido dei Gigli Beach is located in the municipality of Anzio, about 7 kilometers after Lido dei Pini and one before Lavinio. It is one of the few parts of the coast to the south of Rome that are still not cemented, within the private consortium of Lido dei Gigli, once belonging to the aristocratic Roman family of the Borghese. It is a suggestive beach of golden sand, bordered by splendid dunal formations that dominate the landscape, even 20 meters high, dotted with lush Mediterranean vegetation and wild plants of the Liliaceae family, inspiring the place's name. Behind the dunes is a fragrant pine forest of about 56 hectares and a grove of oaks. The sea is very beautiful, blue, crystalline and transparent, with sloping and sandy bottoms, ideal for swimming and swimming. Reach the beach of Lido dei Gigli you have to take the SP towards Anzio, turning to the last right before the camping in the pinewood of Gallinara, in Lido dei Pini: arrived at the end, turn left and park, following the last stretch on foot along a dirt road.",
       "by": "BIKE",
       "distancekm": "5 Km",
       "distancemin": "22",
@@ -896,13 +912,11 @@
           "url": "images/dintorni/lidogigli.jpg",
           "alt": "Lido dei Gigli"
         },
-        "gallery": [
-          
-        ]
+        "gallery": []
       },
       "urls": [
         {
-          "name": "Pagina informazioni",
+          "name": "Info page",
           "url": "http://iluoghidelcuore.it/luoghi/anzio/lido-dei-gigli/26141"
         }
       ]

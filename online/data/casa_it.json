@@ -1,6 +1,6 @@
 {
 	"header": "La casa",
-	"intro": "Scopri gli ambienti che potranno accoglierti.",
+	"intro": "Scopri gli ambienti che ti accoglieranno.",
 	"items": [
 		{
 			"name": "Luci",
@@ -36,7 +36,7 @@
 		},
 		{
 			"name": "Ingresso cucina",
-			"description": "La tavola da pranzo può ospitare tranquillamente quatto persone. Poter assaggiare il vino di Nafidha sar&agrave; molto comodo senza lasciare il proprio piatto :)",
+			"description": "La tavola da pranzo può ospitare tranquillamente quattro persone. Poter assaggiare il vino di Nafidha sar&agrave; molto comodo senza lasciare il proprio piatto :)",
 			"image": {
 				"url": "images/gallery/online/interno_2_v.jpg",
 				"alt": "Tavolo da pranzo ingresso cucina"
@@ -60,7 +60,7 @@
 		},
 		{
 			"name": "Cucina",
-			"description": "Dal soggiorno si accede direttamente alla cucina, raccolta e ben organizzata nei suoi spazi trovano posto: frigo, piano cottura due fuochi, ampio lavandino, forno a microonde.",
+			"description": "Dal soggiorno si accede direttamente alla cucina, raccolta e ben organizzata nei suoi spazi trovano posto: frigo, piano cottura due fuochi, ampio lavandino, forno a microonde, l'estintore per la vostra sicurezza.",
 			"image": {
 				"url": "images/gallery/online/cucina_1_v.jpg",
 				"alt": "Cucina"
@@ -100,7 +100,7 @@
 		},
 		{
 			"name": "Letto",
-			"description": "Letto",
+			"description": "Luce soffusa, libri a portata di mano, un comodo letto. Abbiamo cercato il modo migliore per farvi riposare.",
 			"image": {
 				"url": "images/gallery/online/letto.jpg",
 				"alt": "Letto"
@@ -108,7 +108,7 @@
 		},
 		{
 			"name": "Bagno",
-			"description": "Bagno",
+			"description": "Il bagno è dotato di ogni cosa indispensabile per una casa.",
 			"image": {
 				"url": "images/gallery/online/bagno_1_v.jpg",
 				"alt": "Bagno"
@@ -116,7 +116,7 @@
 		},
 		{
 			"name": "Bagno",
-			"description": "Lavandino e box doccia",
+			"description": "La doccia industrial ha lo spazio giusto anche per due.",
 			"image": {
 				"url": "images/gallery/online/bagno_2_v.jpg",
 				"alt": "Box doccia"
@@ -124,7 +124,7 @@
 		},
 		{
 			"name": "Ingresso",
-			"description": "Ingresso",
+			"description": "Ingresso della casa nel giardino e il gazebo nello spazio comune.",
 			"image": {
 				"url": "images/gallery/online/ingresso_3.jpg",
 				"alt": "Ingresso"
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Ingresso",
-			"description": "Ingresso",
+			"description": "Il giardino di Nafidha con il barbeque in fondo.",
 			"image": {
 				"url": "images/gallery/online/ingresso.jpg",
 				"alt": "Ingresso"
@@ -140,7 +140,7 @@
 		},
 		{
 			"name": "Esterno",
-			"description": "Esterno",
+			"description": "L'esterno è fatto per essere vissuto e il pergolato è uno degli ambienti della casa.",
 			"image": {
 				"url": "images/gallery/online/esterno_4.jpg",
 				"alt": "Esterno"
@@ -148,7 +148,7 @@
 		},
 		{
 			"name": "Tavolo",
-			"description": "Tavolo esterno",
+			"description": "Il tavolo esterno è fatto per essere usato dalla colazione alla cena.",
 			"image": {
 				"url": "images/gallery/online/tavolo_2.jpg",
 				"alt": "Tavolo esterno"
@@ -156,7 +156,7 @@
 		},
 		{
 			"name": "Tavolo",
-			"description": "Tavolo esterno",
+			"description": "Dal pergolato si accede direttamente in camera da letto attraverso una porta finestra.",
 			"image": {
 				"url": "images/gallery/online/esterno_3.jpg",
 				"alt": "Tavolo esterno"
@@ -164,7 +164,7 @@
 		},
 		{
 			"name": "Tavolo",
-			"description": "Tavolo esterno",
+			"description": "Le ampie finestre si affacciano sul giardino e gli alberi saranno una bella cornice",
 			"image": {
 				"url": "images/gallery/online/esterno_2.jpg",
 				"alt": "Tavolo esterno"
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Tavolo",
-			"description": "Tavolo esterno",
+			"description": "L'amaca si vede nel riflesso...per scoprirla non vi resta che venire da noi.",
 			"image": {
 				"url": "images/gallery/online/esterno_1.jpg",
 				"alt": "Tavolo esterno"
@@ -180,7 +180,7 @@
 		},
 		{
 			"name": "Host",
-			"description": "Gli host che vi accoglieranno",
+			"description": "Gli host che vi accoglieranno.",
 			"image": {
 				"url": "images/gallery/online/host.jpg",
 				"alt": "host"

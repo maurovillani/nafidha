@@ -32,7 +32,7 @@ include "controllers/common.inc.php";
 									<?php 
 										
 										foreach ($jsonpage->items as $key => $item){
-											echo('<div class="grid-item"><a data-fancybox="gallery" data-fancybox data-caption="'.$item->description.'" href="'.$item->image->url.'"><span class="image fit"><img src="'.$item->image->url.'" alt="'.$item->image->alt.'" /></span></a></div>');
+											echo('<div class="grid-item"><a data-fancybox="gallery" data-caption="'.$item->description.'" href="'.$item->image->url.'"><span class="image fit"><img src="'.$item->image->url.'" alt="'.$item->image->alt.'" /></span></a></div>');
 										}
 										
 									?>

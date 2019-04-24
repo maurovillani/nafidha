@@ -5,6 +5,6 @@
 		<li><a href="nafidha-contatti.php" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
 	</ul>
 	<ul class="copyright">
-		<li>&copy; 2017 Nafidha.</li><li>By: <a href="http://maurovillani.it">Destiny Design</a></li>
+		<li>&copy; 2017 Nafidha.</li><li>By: <a target="_blank" href="http://maurovillani.it">Mauro</a> / <a target="_blank" href="http://vladimira.it">Vladimira</a></li>
 	</ul>
 </footer>

@@ -63,7 +63,7 @@ include "controllers/common.inc.php";
 						</header>
 						<p><?php if($jsonpage) echo($jsonpage->lacasacontent); ?></p>
 						<ul class="actions">
-							<li><a href="nafidha-la-casa.php" class="button"><?php echo(BTNSCOPRI); ?></a></li>
+							<li><a href="nafidha-la-casa<?php if(isset($_GET['lang'])) echo('?lang='.$_GET['lang']); ?>" class="button"><?php echo(BTNSCOPRI); ?></a></li>
 						</ul>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
@@ -79,7 +79,7 @@ include "controllers/common.inc.php";
 						</header>
 						<p><?php if($jsonpage) echo($jsonpage->visitarecontent); ?></p>
 						<ul class="actions">
-							<li><a href="nafidha-da-visitare.php" class="button"><?php echo(BTNSCOPRI); ?></a></li>
+							<li><a href="nafidha-da-visitare<?php if(isset($_GET['lang'])) echo('?lang='.$_GET['lang']); ?>" class="button"><?php echo(BTNSCOPRI); ?></a></li>
 						</ul>
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
@@ -126,9 +126,9 @@ include "controllers/common.inc.php";
 								</section>
 							</div>
 						</div>
-						<footer class="major">
+						<footer style="display:none" class="major">
 							<ul class="actions">
-								<li><a href="nafidha-contatti.php" class="button"><?php echo(BTNSCOPRI); ?></a></li>
+								<li><a href="nafidha-contatti<?php if(isset($_GET['lang'])) echo('?lang='.$_GET['lang']); ?>" class="button"><?php echo(BTNSCOPRI); ?></a></li>
 							</ul>
 						</footer>
 					</div>

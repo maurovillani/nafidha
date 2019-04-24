@@ -29,18 +29,20 @@ include "controllers/common.inc.php";
 							<div class="row uniform 50%">
 								<div class="4u 12u$(xsmall)">
 									<label for="selecttype"><?php echo(LBLTIPOSCOPRI); ?></label>
-									<select id="selecttype" name="selecttype" placeholder="tipo">
+									<select id="selecttype" name="selecttype">
 										<option value="*"><?php echo(LBLALL); ?></option>
 										<option value="NATURE"><?php echo(LBLNATURE); ?></option>
 										<option value="SEA"><?php echo(LBLSEA); ?></option>
 										<option value="MONUMENTS"><?php echo(LBLMONUMENTS); ?></option>
+										<option value="FUN"><?php echo(LBLFUN); ?></option>
+										<option value="CULTURE"><?php echo(LBLCULTURE); ?></option>
 										<option value="SHOPPING"><?php echo(LBLSHOPPING); ?></option>
 										<option value="CULT"><?php echo(LBLCULT); ?></option>
 									</select>
 								</div>
 								<div class="4u 12u$(xsmall)">
 									<label for="selecttype"><?php echo(LBLTRANSSCOPRI); ?></label>
-									<select id="selecttransport" name="selecttransport" placeholder="trasporto">
+									<select id="selecttransport" name="selecttransport">
 										<option value="*"><?php echo(LBLNVR); ?></option>
 										<option value="WALKING"><?php echo(LBLWALK); ?></option>
 										<option value="BIKE"><?php echo(LBLBIKE); ?></option>
@@ -49,7 +51,7 @@ include "controllers/common.inc.php";
 								</div>
 								<div class="4u 12u$(xsmall)">
 									<label>&nbsp;</label>
-									<a href="nafidha-da-visitare.php" class="button"><?php echo(BTNITINERARI); ?></a>
+									<a target="_blank" href="media/scoprire_dintorni_completo_<?php echo($lang); ?>.pdf" class="button"><?php echo(BTNITINERARI); ?></a>
 								</div>
 							</div>
 						</form>
@@ -71,7 +73,7 @@ include "controllers/common.inc.php";
 											$by = $item->by;
 											if($item->by == "BIKE") $by .= " WALKING";
 											if($item->by == "CAR") $by .= " BIKE WALKING";
-											echo('<div class="grid-item '.$item->by.' '.$cosatroverai.'"><a href="nafidha-da-visitare-dettagli.php?lang='.$lang.'&amp;code='.$item->code.'&amp;key='.$key.'"><span class="image fit"><img src="'.$item->images->main->url.'" alt="'.$item->images->main->alt.'" /><h4 class="titleimage">'.$item->name.'</h4></span></a></div>');
+											echo('<div class="grid-item '.$item->by.' '.$cosatroverai.'"><a href="nafidha-da-visitare-dettagli.php?lang='.$lang.'&amp;code='.$item->code.'&amp;key='.$key.'"><span class="image fit"><img src="'.$item->images->main->url.'" alt="'.$item->images->main->alt.'" /></span><h4 class="titleimage">'.$item->name.'</h4></a></div>');
 										}
 										
 										?>
@@ -81,7 +83,7 @@ include "controllers/common.inc.php";
 							</section>
 							<section class="special">
 								<ul class="actions">
-									<li><a target="_new" href="media/scoprire_dintorni_completo_<?php echo($lang); ?>.pdf" class="button"><?php echo(BTNITINERARI); ?></a></li>
+									<li><a target="_blank" href="media/scoprire_dintorni_completo_<?php echo($lang); ?>.pdf" class="button"><?php echo(BTNITINERARI); ?></a></li>
 								</ul>
 							</section>
 							

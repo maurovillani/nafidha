@@ -25,10 +25,12 @@ foreach ($item->tags as $key => $tag) {
 }
 
 $siti = "";
-foreach ($item->urls as $key => $url) {
-	$siti .= '<a target ="_new" href="'.$url->url.'">'.$url->url.'</a> ('.$url->name.')';
-	if($key != count($item->urls) - 1) {
-		$siti .= ", ";
+if(isset($item->urls)) {
+	foreach ($item->urls as $key => $url) {
+		$siti .= '<a target ="_blank" href="'.$url->url.'">'.$url->url.'</a> ('.$url->name.')';
+		if($key != count($item->urls) - 1) {
+			$siti .= ", ";
+		}
 	}
 }
 
@@ -53,20 +55,23 @@ foreach ($item->urls as $key => $url) {
 			<div id="main" class="wrapper style1">
 				<div class="container">
 					<header class="major">
-						<h2>Da visitare - <?php echo($item->name); ?></h2>
+						<h2><?php if($jsonpage) echo($jsonpage->header); ?> - <?php echo($item->name); ?></h2>
 					</header>
 
-					<h4>Dettagli</h4>
+					<h4><?php if($jsonpage) echo($jsonpage->lbldettagli); ?></h4>
 					<section>
-						<p><span class="image left"><img src="<?php echo($item->images->main->url); ?>" alt="<?php echo($item->images->main->alt); ?>" /></span><?php echo($item->description); ?></p>
+						<p><a data-fancybox="gallery" data-caption="<?php if($lang == 'it') echo($item->images->main->alt); ?>" href="<?php echo($item->images->main->url); ?>"><span class="image left"><img src="<?php echo($item->images->main->url); ?>" alt="<?php echo($item->images->main->alt); ?>" /></span></a><?php echo($item->description); ?></p>
 					</section>
 					<section>
 						<div class="box alt">
-							<div id="gallery" class="row 50% uniform">
+							<div id="galleryp" class="row 50% uniform">
 								<?php 
 								
 								foreach ($item->images->gallery as $key => $inneritem) {
-									echo('<div class="3u 4u(xsmall)"><a data-fancybox="gallery" data-fancybox data-caption="'.$inneritem->alt.'" href="'.$inneritem->url.'"><span class="image fit"><img src="'.$inneritem->url.'" alt="'.$inneritem->alt.'" /></span></a></div>');
+									if($lang == 'it')
+										echo('<div class="3u 4u(xsmall)"><a data-fancybox="gallery" data-caption="'.$inneritem->alt.'" href="'.$inneritem->url.'"><span class="image fit"><img src="'.$inneritem->url.'" alt="'.$inneritem->alt.'" /></span></a></div>');
+									else 
+										echo('<div class="3u 4u(xsmall)"><a data-fancybox="gallery" data-caption="" href="'.$inneritem->url.'"><span class="image fit"><img src="'.$inneritem->url.'" alt="'.$inneritem->alt.'" /></span></a></div>');
 								}
 								
 								?>
@@ -76,7 +81,7 @@ foreach ($item->urls as $key => $url) {
 					
 					<section>
 							<div class="map" style="width: 100%">
-								<iframe style="width: 100%" src="<?php echo($item->googlemapembed); ?>" frameborder="0" allowfullscreen=""></iframe>
+								<iframe style="width: 100%" src="<?php echo($item->googlemapembed); ?>" allowfullscreen=""></iframe>
 							</div>
 					</section>
 					<section>
@@ -85,19 +90,19 @@ foreach ($item->urls as $key => $url) {
 							<table>
 								<tbody>
 									<tr>
-										<td>Cosa troverai</td>
+										<td><?php if($jsonpage) echo($jsonpage->lblcosatroverai); ?></td>
 										<td><?php echo($cosatroverai); ?></td>
 									</tr>
 									<tr>
-										<td>Come arrivare</td>
+										<td><?php if($jsonpage) echo($jsonpage->lblcomearrivare); ?></td>
 										<td><?php echo(constant($item->by)); ?></td>
 									</tr>
 									<tr>
-										<td>Distanza</td>
+										<td><?php if($jsonpage) echo($jsonpage->lbldistanza); ?></td>
 										<td><?php echo($item->distancekm); ?></td>
 									</tr>
 									<tr>
-										<td>Link esterni</td>
+										<td><?php if($jsonpage) echo($jsonpage->lbllink); ?></td>
 										<td><?php echo($siti); ?></td>
 									</tr>
 								</tbody>
