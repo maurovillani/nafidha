@@ -6,6 +6,7 @@ RewriteRule nafidha-la-casa$ nafidha-la-casa.php
 RewriteRule nafidha-da-visitare$ nafidha-da-visitare.php
 RewriteRule nafidha-da-visitare-dettagli$ nafidha-da-visitare-dettagli.php
 RewriteRule en$ index.php?lang=en
+RewriteRule booking$ redirect.php?channel=booking
 
 <ifModule mod_gzip.c>
 mod_gzip_on Yes

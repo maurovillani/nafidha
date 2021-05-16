@@ -21,7 +21,7 @@ include "controllers/common.inc.php";
 				<section id="banner">
 					<div class="content">
 						<header>
-							<h2>Nafidha Holiday Taste</h2>
+							<h2>Nafidha Tourist Apartment</h2>
 							<p><?php if($jsonpage) echo($jsonpage->header); ?></p>
 						</header>
 						<span class="image"><img src="images/logo-complete.png" alt="" /></span>

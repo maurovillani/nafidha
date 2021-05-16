@@ -1,6 +1,8 @@
 <?php
 define("MENULACASA", "The house");
 define("MENUDAVISITARE", "Places");
+define("MENUBLOG", "Blog");
+define("MENUBOOKING", "Booking");
 define("MENUCONTATTI", "Contacts");
 
 define("WALKING", "Walking");
